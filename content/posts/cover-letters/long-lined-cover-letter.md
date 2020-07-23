@@ -1,6 +1,6 @@
 ---
 title: Long Lined Cover Letter
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: yngyf_cover_letter_3.png
 ---
 ```
@@ -11,4 +11,4 @@ This cover letter template uses the newlfm package and features a clean professi
 Original Author:
 This cover letter was originally created by Matthew J. Miller but has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pqsss_cover_letter_3.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pqsss_cover_letter_3.zip&import_name=Long%20Lined%20Cover%20Letter)

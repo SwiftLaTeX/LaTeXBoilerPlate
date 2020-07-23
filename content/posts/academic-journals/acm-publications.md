@@ -1,6 +1,6 @@
 ---
 title: Association for Computing Machinery (ACM)
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: hplmx_sample-acmsmall.jpg
 ---
 ```
@@ -17,4 +17,4 @@ Proceedings Format: Most proceedings authors will use the “sigconf” proceedi
 Copyright Owner:
 The templates provided here were created and are owned by the ACM. They are unmodified (but re-bundled to split types) versions of that found on the ACM LaTeX Style Guide page on the ACM website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/vfglw_acmsmall.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/vfglw_acmsmall.zip&import_name=Association%20for%20Computing%20Machinery%20%28ACM%29)

@@ -1,6 +1,6 @@
 ---
 title: Invoice
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: vmvdg_invoice.png
 ---
 ```
@@ -12,4 +12,4 @@ Important note: The file ‘invoice.cls’ is required to be in the same directo
 Original Author:
 This invoice template was originally created by Trey Hunner but has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tgclg_invoice.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tgclg_invoice.zip&import_name=Invoice)

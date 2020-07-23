@@ -1,6 +1,6 @@
 ---
 title: Freeman Curriculum Vitae
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: yyvbg_cv_3.jpg
 ---
 ```
@@ -11,4 +11,4 @@ This curriculum vitae template fits a large amount of information in a concise t
 Authors
 This template was originally created by Alessandro Plasmati. It has been entirely rewritten for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pzzcn_cv_3.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pzzcn_cv_3.zip&import_name=Freeman%20Curriculum%20Vitae)

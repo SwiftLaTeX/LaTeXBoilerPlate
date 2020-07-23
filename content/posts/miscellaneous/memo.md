@@ -1,6 +1,6 @@
 ---
 title: Memo
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: lssby_memo.png
 ---
 ```
@@ -11,4 +11,4 @@ A memo (formal name memorandum) is a business document used for communication wi
 Original Author:
 The texMemo class used in this template was created by Rob Oakes.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/kaeod_memo.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/kaeod_memo.zip&import_name=Memo)

@@ -1,6 +1,6 @@
 ---
 title: baposter Landscape Poster
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: dklqd_conference_poster_4.png
 ---
 ```
@@ -11,4 +11,4 @@ This poster template features a large header with space for two logos to either 
 Original Author:
 The baposter class was originally created by Brian Amberg but this template using this class has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/mpvgq_conference_poster_4.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/mpvgq_conference_poster_4.zip&import_name=baposter%20Landscape%20Poster)

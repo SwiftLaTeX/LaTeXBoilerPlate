@@ -1,6 +1,6 @@
 ---
 title: Stylish Article
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: skbcq_article_3.png
 ---
 ```
@@ -11,4 +11,4 @@ This article template attempts to emulate the design of contemporary scientific 
 Original Author:
 This template was originally created by Mathias Legrand but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wkint_article_3.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wkint_article_3.zip&import_name=Stylish%20Article)

@@ -1,6 +1,6 @@
 ---
 title: Conference Booklet
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: msqfj_conference_booklet.jpg
 ---
 ```
@@ -14,4 +14,4 @@ This template was created by Maxime Lucas and Pau Clusella, with extensive modif
 License
 This template is licensed under the GNU General Public License (v3).
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/xshrq_conference_booklet.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/xshrq_conference_booklet.zip&import_name=Conference%20Booklet)

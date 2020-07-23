@@ -1,6 +1,6 @@
 ---
 title: University/School Laboratory Report
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: ubcrp_lab_report_12.png
 ---
 ```
@@ -11,4 +11,4 @@ This template provides a clean structured format for writing a report based on a
 Original Author:
 This laboratory book template was originally created by the Linux and Unix Users Group at Virginia Tech Wiki but has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/alwaw_lab_report_1.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/alwaw_lab_report_1.zip&import_name=University/School%20Laboratory%20Report)

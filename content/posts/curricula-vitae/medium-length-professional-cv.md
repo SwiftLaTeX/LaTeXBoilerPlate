@@ -1,6 +1,6 @@
 ---
 title: Medium Length Professional
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: ylkvo_cv_41.png
 ---
 ```
@@ -12,4 +12,4 @@ Important note: The file ‘resume.cls’ is required to be in the same director
 Original Author:
 This curriculum vitae was originally created by Trey Hunner but has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/qharm_cv_4.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/qharm_cv_4.zip&import_name=Medium%20Length%20Professional)

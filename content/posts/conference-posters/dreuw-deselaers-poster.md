@@ -1,6 +1,6 @@
 ---
 title: Dreuw & Deselaer’s Poster
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: frnlo_poster_2.png
 ---
 ```
@@ -11,4 +11,4 @@ This poster template features a dark gray color scheme for content and a contras
 Original Author:
 This template was originally created by Philippe Dreuw and Thomas Deselaers but has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rvgrq_conference_poster_2.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rvgrq_conference_poster_2.zip&import_name=Dreuw%20%26%20Deselaer%E2%80%99s%20Poster)

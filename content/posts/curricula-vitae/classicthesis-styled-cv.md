@@ -1,6 +1,6 @@
 ---
 title: Classicthesis-Styled CV
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: czesf_cv_8.png
 ---
 ```
@@ -11,4 +11,4 @@ This template combines the Classicthesis style with the currvita document layout
 Original Author:
 This template was originally created by Alessandro Plasmati but has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/znmvj_cv_8.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/znmvj_cv_8.zip&import_name=Classicthesis-Styled%20CV)

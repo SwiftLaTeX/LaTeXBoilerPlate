@@ -1,6 +1,6 @@
 ---
 title: Diaz Essay
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: rbptr_essay_2.jpg
 ---
 ```
@@ -11,4 +11,4 @@ This essay template is best used for literature essays containing mostly text. T
 Original Author
 This template was originally created by Nicolas Diaz but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/sknjt_essay_2.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/sknjt_essay_2.zip&import_name=Diaz%20Essay)

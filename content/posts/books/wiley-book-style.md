@@ -1,6 +1,6 @@
 ---
 title: The Wiley Book Style
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: lscul_book_3.png
 ---
 ```
@@ -16,4 +16,4 @@ You can either modify the first document with your own content or simply use it 
 Copyright Owner:
 The Wiley book style provided here was created and is owned by John Wiley & Sons, Inc.. It is an unmodified version of that found on the Manuscript Guidelines for Scientific, Technical, Medical, and Scholarly page of the Wiley website. This page also contains contact details for sending proposals to Wiley Publishing.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uuthw_latex_macros_6x9.ZIP)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uuthw_latex_macros_6x9.ZIP&import_name=The%20Wiley%20Book%20Style)

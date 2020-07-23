@@ -1,6 +1,6 @@
 ---
 title: Multi-Purpose Large Font
-date: 2020-07-23T10:20:58+0000
+date: 2020-07-23T10:37:54+0000
 img: labhm_template-1.jpg
 ---
 ```
@@ -12,4 +12,4 @@ This template compiles as a standalone document to act as a starting point for c
 Original Author:
 This title page was originally created by Frits Wenneker but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ufxac_template.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ufxac_template.zip&import_name=Multi-Purpose%20Large%20Font)
