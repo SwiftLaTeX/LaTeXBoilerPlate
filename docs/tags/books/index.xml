@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>books on LaTeX Boilerplates</title>
-    <link>http://www.swiftlatex.org/tags/books/</link>
+    <link>https://swiftlatex.github.io/tags/books/</link>
     <description>Recent content in books on LaTeX Boilerplates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2020 04:54:47 +0000</lastBuildDate>
     
-	<atom:link href="http://www.swiftlatex.org/tags/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://swiftlatex.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>eBook</title>
-      <link>http://www.swiftlatex.org/posts/books/ebook/</link>
+      <link>https://swiftlatex.github.io/posts/books/ebook/</link>
       <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
       
-      <guid>http://www.swiftlatex.org/posts/books/ebook/</guid>
+      <guid>https://swiftlatex.github.io/posts/books/ebook/</guid>
       <description>eBook Description: This ebook template is for those wishing to create a book in a format that is easily readable on electronic screens. To facilitate this, the template features a layout with narrow margins and a large font size to use as much of your screen real estate as possible. Each page features a header with the author and title of the book, as well as a page count at the bottom to indicate progress.</description>
     </item>
     
     <item>
       <title>kaobook</title>
-      <link>http://www.swiftlatex.org/posts/books/kaobook/</link>
+      <link>https://swiftlatex.github.io/posts/books/kaobook/</link>
       <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
       
-      <guid>http://www.swiftlatex.org/posts/books/kaobook/</guid>
+      <guid>https://swiftlatex.github.io/posts/books/kaobook/</guid>
       <description>kaobook Description This template is designed for writing books and graduate-level theses and provides numerous examples and documentation to enable complex requirements. The design features a relatively narrow main text column with an adjacent wide margin to house notes, figures, tables, citations and captions. The narrow text column facilitates faster reading by reducing horizontal eye movement distance and makes reading less fatiguing. Content can be split into the standard section types of parts, chapters, sections, subsections, subsubsections and paragraphs with examples of all of these provided.</description>
     </item>
     
     <item>
       <title>The Legrand Orange Book</title>
-      <link>http://www.swiftlatex.org/posts/books/the-legrand-orange-book/</link>
+      <link>https://swiftlatex.github.io/posts/books/the-legrand-orange-book/</link>
       <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
       
-      <guid>http://www.swiftlatex.org/posts/books/the-legrand-orange-book/</guid>
+      <guid>https://swiftlatex.github.io/posts/books/the-legrand-orange-book/</guid>
       <description>The Legrand Orange Book Description: This book template features an elegant layout with a beautiful title page and part/chapter headings. The book itself is highly structured into parts, chapters, sections and then subsections. Each is numbered and these numbers are prominently displayed in the left margin where each begins as well as in page headers. Sections and subsections also appear as mini tables of contents on pages separating parts of the book to provide an outline of the content to come.</description>
     </item>
     
     <item>
       <title>The Wiley Book Style</title>
-      <link>http://www.swiftlatex.org/posts/books/wiley-book-style/</link>
+      <link>https://swiftlatex.github.io/posts/books/wiley-book-style/</link>
       <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
       
-      <guid>http://www.swiftlatex.org/posts/books/wiley-book-style/</guid>
+      <guid>https://swiftlatex.github.io/posts/books/wiley-book-style/</guid>
       <description>The Wiley Book Style Description: The Wiley Publishing Company provides two templates for authors wishing to use LaTeX to supply their books for typesetting. The difference between the two templates is purely in their dimensions, one is for 6″ x 9″ books while the other is for 7″ x 10″ books. The templates include all features required for book publication: title page, copyright page, dedication, contributors list, table of contents/figures/tables, acronyms, glossary, symbols, parts, chapters, appendices, references and an index.</description>
     </item>
     
     <item>
       <title>Tufte-Style Book</title>
-      <link>http://www.swiftlatex.org/posts/books/tufte-style-book/</link>
+      <link>https://swiftlatex.github.io/posts/books/tufte-style-book/</link>
       <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
       
-      <guid>http://www.swiftlatex.org/posts/books/tufte-style-book/</guid>
+      <guid>https://swiftlatex.github.io/posts/books/tufte-style-book/</guid>
       <description>Tufte-Style Book Description: This book template has been designed to conform to Edward R. Tufte’s design style, used in his books and handouts. The most defining feature of this design is the large margin on every page and extensive use of sidenotes. This layout means that the central column of text is uncluttered since further descriptions and citations are housed in the margin. Tufte’s design style does not end there and numerous other typographic and layout tweaks are present in this template and are described in the documentation template.</description>
     </item>
     

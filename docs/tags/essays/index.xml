@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>essays on LaTeX Boilerplates</title>
-    <link>http://www.swiftlatex.org/tags/essays/</link>
+    <link>https://swiftlatex.github.io/tags/essays/</link>
     <description>Recent content in essays on LaTeX Boilerplates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2020 04:54:47 +0000</lastBuildDate>
     
-	<atom:link href="http://www.swiftlatex.org/tags/essays/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://swiftlatex.github.io/tags/essays/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Diaz Essay</title>
-      <link>http://www.swiftlatex.org/posts/essays/diaz-essay/</link>
+      <link>https://swiftlatex.github.io/posts/essays/diaz-essay/</link>
       <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
       
-      <guid>http://www.swiftlatex.org/posts/essays/diaz-essay/</guid>
+      <guid>https://swiftlatex.github.io/posts/essays/diaz-essay/</guid>
       <description>Diaz Essay Description This essay template is best used for literature essays containing mostly text. This is supported by a thin single column layout with clear unnumbered section titles to increase readability. The template contains an abstract, keywords and references, which makes it suitable for college/university essays but these elements can be easily removed for a simpler high school essay. Further examples of common essay components are included: referencing using a bibliography, an inline figure, a table and lists.</description>
     </item>
     
     <item>
       <title>Tufte Essay</title>
-      <link>http://www.swiftlatex.org/posts/essays/tufte-essay/</link>
+      <link>https://swiftlatex.github.io/posts/essays/tufte-essay/</link>
       <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
       
-      <guid>http://www.swiftlatex.org/posts/essays/tufte-essay/</guid>
+      <guid>https://swiftlatex.github.io/posts/essays/tufte-essay/</guid>
       <description>Tufte Essay Description This template uses the Tufte class to create an elegant layout for writing essays or other long-form texts. This class features a somewhat controversial wide margin on the right side of each page which is used for: footnotes, margin notes, figure/table captions, citations and even figures and tables themselves. If you are not prepared to make use of this margin or dislike how it looks, it is not recommended to use this template as the class hard-codes its use.</description>
     </item>
     

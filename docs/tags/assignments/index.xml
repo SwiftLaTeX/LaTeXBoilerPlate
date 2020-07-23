@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>assignments on LaTeX Boilerplates</title>
-    <link>http://www.swiftlatex.org/tags/assignments/</link>
+    <link>https://swiftlatex.github.io/tags/assignments/</link>
     <description>Recent content in assignments on LaTeX Boilerplates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2020 04:54:47 +0000</lastBuildDate>
     
-	<atom:link href="http://www.swiftlatex.org/tags/assignments/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://swiftlatex.github.io/tags/assignments/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cleese Assignment</title>
-      <link>http://www.swiftlatex.org/posts/assignments/cleese-assignment/</link>
+      <link>https://swiftlatex.github.io/posts/assignments/cleese-assignment/</link>
       <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
       
-      <guid>http://www.swiftlatex.org/posts/assignments/cleese-assignment/</guid>
+      <guid>https://swiftlatex.github.io/posts/assignments/cleese-assignment/</guid>
       <description>Cleese Assignment Description This template comes in two versions, one for teachers/instructors/educators to create assignments/homework for their students to fill out by hand, and another for students proficient in LaTeX to answer questions posed to them at school or university/college. Both versions contain simple environments for each question and subquestion within, and allow answer boxes to be created with either an answer or blank for space to write an answer. Sets of questions can be grouped by headings and the template includes examples of including an image, table, equation and code within questions.</description>
     </item>
     
     <item>
       <title>fphw Assignment</title>
-      <link>http://www.swiftlatex.org/posts/assignments/fphw-assignment/</link>
+      <link>https://swiftlatex.github.io/posts/assignments/fphw-assignment/</link>
       <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
       
-      <guid>http://www.swiftlatex.org/posts/assignments/fphw-assignment/</guid>
+      <guid>https://swiftlatex.github.io/posts/assignments/fphw-assignment/</guid>
       <description>fphw Assignment Description This template is for formatting assignments or homework in a clear and simple way. The title section at the top of the first page clearly displays the assignment, student and class information. This information also appears in the headers and footers of subsequent pages. Questions in the assignment are clearly demarcated and appear inside boxes to focus attention. The template features examples of including images, tables, equations and code listings for covering virtually all common assignment information.</description>
     </item>
     
     <item>
       <title>Lachaise Assignment</title>
-      <link>http://www.swiftlatex.org/posts/assignments/lachaise-assignment/</link>
+      <link>https://swiftlatex.github.io/posts/assignments/lachaise-assignment/</link>
       <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
       
-      <guid>http://www.swiftlatex.org/posts/assignments/lachaise-assignment/</guid>
+      <guid>https://swiftlatex.github.io/posts/assignments/lachaise-assignment/</guid>
       <description>Lachaise Assignment Description This template is for teachers/instructors/educators to create assignments/homework for their students. It includes a clear title on the first page for the course, assignment and teacher’s name, as well as the institution and date. Sets of questions can be grouped by headings and the template includes examples of unnumbered and numbered sections, and numbered subsections (for longer assignments). Amongst the description text for each question, examples are provided for virtually any subject matter, including: equations, algorithms, code and command line outputs.</description>
     </item>
     
     <item>
       <title>Wenneker Assignment</title>
-      <link>http://www.swiftlatex.org/posts/assignments/wenneker-assignment/</link>
+      <link>https://swiftlatex.github.io/posts/assignments/wenneker-assignment/</link>
       <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
       
-      <guid>http://www.swiftlatex.org/posts/assignments/wenneker-assignment/</guid>
+      <guid>https://swiftlatex.github.io/posts/assignments/wenneker-assignment/</guid>
       <description>Wenneker Assignment Description This template can be used by teachers or students for school or university assignments. It contains a clear title section at the start to specify the assignment class, title, date and teacher/student name. The template supports up to 4 levels of sections to structure the assignment into sections, questions, subquestions and bonus content. Examples of common assignment content are included: figure, equations, lists, table, code and paragraphs of text.</description>
     </item>
     
