@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laboratory-books on LaTeX Boilerplates</title>
+    <link>https://swiftlatex.github.io/LaTeXBoilerPlate/laboratory-books/</link>
+    <description>Recent content in Laboratory-books on LaTeX Boilerplates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2020 05:33:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://swiftlatex.github.io/LaTeXBoilerPlate/laboratory-books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compact Laboratory Book</title>
+      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/laboratory-books/compact-laboratory-book/</link>
+      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      
+      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/laboratory-books/compact-laboratory-book/</guid>
+      <description>Compact Laboratory Book Description: This template is useful for keeping track of progress made on different experiments in a laboratory. It features a compact layout for clean reading with each day clearly distinct from other days. Multiple experiments and sub-experiments can be cited for each day allowing the tracking of progress on multiple different avenues of research more easily. The template includes examples of a table, figure, equation, bibliography and citation.</description>
+    </item>
+    
+    <item>
+      <title>Daily Laboratory Book</title>
+      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/laboratory-books/daily-laboratory-book/</link>
+      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      
+      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/laboratory-books/daily-laboratory-book/</guid>
+      <description>Daily Laboratory Book Description: This template is useful for those working in a laboratory where records must be kept for academic or commercial purposes. Often times working in the laboratory means scrawling messy notes in a physical book so this template helps to make a laboratory book more organized and digitally searchable. The template features a cover page, hyperlinked table of contents, daily logs of progress made on individual experiments and a formulae and media recipes section.</description>
+    </item>
+    
+  </channel>
+</rss>
