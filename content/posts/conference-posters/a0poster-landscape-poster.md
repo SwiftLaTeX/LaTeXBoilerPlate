@@ -1,6 +1,6 @@
 ---
 title: a0poster Landscape Poster
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: ogiko_conference_poster_5_cropped.png
 ---
 ```
@@ -11,4 +11,4 @@ This poster features a clean landscape layout with a large header section housin
 Original Author:
 The a0poster class was created by Gerlinde Kettl and Matthias Weiser. This template uses this class but has been created for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ztdpl_conference_poster_5.zip&import_name=a0poster Landscape Poster)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ztdpl_conference_poster_5.zip)

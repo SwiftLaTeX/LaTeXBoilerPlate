@@ -1,6 +1,6 @@
 ---
 title: Engineering Calculation Paper
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: cakyd_EngCalcPaper.png
 ---
 ```
@@ -11,4 +11,4 @@ This template for engineering calculation paper is designed for engineers to pre
 Original Author:
 This template was originally created by Dmitry Volynkin but has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zyjpo_EngCalcPaper.zip&import_name=Engineering Calculation Paper)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zyjpo_EngCalcPaper.zip)

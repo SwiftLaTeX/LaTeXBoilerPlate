@@ -1,6 +1,6 @@
 ---
 title: Lachaise Assignment
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: sgwzn_assignment_2.jpg
 ---
 ```
@@ -12,4 +12,4 @@ Amongst the description text for each question, examples are provided for virtua
 Authors
 This template was created by Marion Lachaise and François Févotte and was modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ygfbn_assignment_2.zip&import_name=Lachaise Assignment)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ygfbn_assignment_2.zip)

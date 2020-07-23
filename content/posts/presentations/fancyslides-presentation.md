@@ -1,6 +1,6 @@
 ---
 title: Fancyslides Presentation
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: kphwd_presentation_3_cropped.png
 ---
 ```
@@ -11,4 +11,4 @@ This presentation template uses the Fancyslides class which builds on top of the
 Original Authors:
 The Fancyslides class was created by Pawel Lupkowski and is available here. This template uses this class but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ldvrt_presentation_3.zip&import_name=Fancyslides Presentation)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ldvrt_presentation_3.zip)

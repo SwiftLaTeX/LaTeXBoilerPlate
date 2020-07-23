@@ -1,6 +1,6 @@
 ---
 title: The Legrand Orange Book
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: ffxid_book_2.jpg
 ---
 ```
@@ -13,4 +13,4 @@ Due to the strong reliance on sectioning and the associated numbering, this temp
 Original Authors:
 This template was originally created by Mathias Legrand with inspiration from the material found here and here. It has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/veykp_book_2.zip&import_name=The Legrand Orange Book)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/veykp_book_2.zip)

@@ -1,6 +1,6 @@
 ---
 title: Tufte Essay
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: enavt_essay_1.jpg
 ---
 ```
@@ -14,4 +14,4 @@ This template includes unmodified copies of the Tufte-LaTeX classes and styles f
 License
 Apache Li­cense, ver­sion 2.0
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/xtdfj_essay_1.zip&import_name=Tufte Essay)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/xtdfj_essay_1.zip)

@@ -1,6 +1,6 @@
 ---
 title: Cheatsheet
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: yoech_cheatsheet.png
 ---
 ```
@@ -11,4 +11,4 @@ This template is for creating a single page cheatsheet. Cheatsheets act as a ref
 Original Author:
 This template was created by Michael Müller with extensive modifications by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tfjli_cheatsheet.zip&import_name=Cheatsheet)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tfjli_cheatsheet.zip)

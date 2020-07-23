@@ -1,6 +1,6 @@
 ---
 title: Royal Society of Chemistry
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: dqlfp_academic_journal_2.jpg
 ---
 ```
@@ -13,4 +13,4 @@ Analyst, Analytical Methods, Biomaterials Science, Catalysis Science & Technolog
 Copyright Owner
 The two templates provided here were created and are owned by RSC Publishing. The files provided here are unmodified from their original source at RSC Publishing.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/alsnx_rsc_article_template.zip&import_name=Royal Society of Chemistry)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/alsnx_rsc_article_template.zip)

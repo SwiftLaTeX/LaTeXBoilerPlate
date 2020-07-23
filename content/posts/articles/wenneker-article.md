@@ -1,6 +1,6 @@
 ---
 title: Wenneker Article
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: zvieu_article_1.jpg
 ---
 ```
@@ -11,4 +11,4 @@ This article template features a large eye-catching title section with space for
 Original Author:
 This template was originally created by Frits Wenneker but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bmjre_article_1.zip&import_name=Wenneker Article)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bmjre_article_1.zip)

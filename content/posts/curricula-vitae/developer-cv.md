@@ -1,6 +1,6 @@
 ---
 title: Developer CV
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: ynesl_cv_17.jpg
 ---
 ```
@@ -13,4 +13,4 @@ This template was originally created by Jan Vorisek based on a template by Jan K
 License
 The MIT License
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fwupf_cv_17.zip&import_name=Developer CV)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fwupf_cv_17.zip)

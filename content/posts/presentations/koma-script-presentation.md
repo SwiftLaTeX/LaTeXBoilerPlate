@@ -1,6 +1,6 @@
 ---
 title: KOMA-Script Presentation
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: jhwby_presentation_2.png
 ---
 ```
@@ -11,4 +11,4 @@ This presentation template is unique in that it uses the standard KOMA-Script sc
 Original Authors:
 The structure of this template was originally proposed and written by Marius Hofert and Markus Kohm and published in the PracTeX Journal, 2010, No. 2. This code has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ajjdx_presentation_2.zip&import_name=KOMA-Script Presentation)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ajjdx_presentation_2.zip)

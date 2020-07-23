@@ -1,6 +1,6 @@
 ---
 title: American Geophysical Union
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: ozmvl_academic_journal_5.jpg
 ---
 ```
@@ -14,4 +14,4 @@ AGU Advances; GeoHealth; Earth and Space Science; Earth’s Future; Geochemistry
 Copyright Owner
 The AGU template provided here was created and is owned by AGU. It is an unmodified version of that found on the LaTeX Guidelines section of the AGU website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/omjtn_agu_template.zip&import_name=American Geophysical Union)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/omjtn_agu_template.zip)

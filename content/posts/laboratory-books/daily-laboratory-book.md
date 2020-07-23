@@ -1,6 +1,6 @@
 ---
 title: Daily Laboratory Book
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: kukri_lab_book_1.png
 ---
 ```
@@ -13,4 +13,4 @@ Important note: The file ‘labbook.cls’ is required to be in the same directo
 Original Author:
 This laboratory book template was originally created by Frank Kuster but has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rbuly_lab_book_1.zip&import_name=Daily Laboratory Book)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rbuly_lab_book_1.zip)

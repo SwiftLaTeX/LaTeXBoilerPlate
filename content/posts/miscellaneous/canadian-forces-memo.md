@@ -1,6 +1,6 @@
 ---
 title: Canadian Forces Memo
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: cspof_CF_memo.png
 ---
 ```
@@ -17,4 +17,4 @@ I hope this Memo Template helps all DND employees that have had difficulty in fi
 Original Author:
 This template was created by K. Thomas with extensive modifications by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/gwzlz_CF_memo.zip&import_name=Canadian Forces Memo)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/gwzlz_CF_memo.zip)

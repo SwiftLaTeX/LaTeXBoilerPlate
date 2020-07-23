@@ -1,6 +1,6 @@
 ---
 title: Cleese Assignment
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: xgnfg_student_template.jpg
 ---
 ```
@@ -12,4 +12,4 @@ The students version of the template contains a title page for handing in the as
 Author
 This template was created for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pkzdg_cleese_assignment_students.zip&import_name=Cleese Assignment)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pkzdg_cleese_assignment_students.zip)

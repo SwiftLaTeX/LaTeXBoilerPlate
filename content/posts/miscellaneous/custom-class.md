@@ -1,6 +1,6 @@
 ---
 title: Custom Class
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: ymxrn_custom_class.png
 ---
 ```
@@ -11,4 +11,4 @@ This template is for advanced users of LaTeX who are interested in creating thei
 Original Author:
 This template was created by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bjcqd_custom_class.zip&import_name=Custom Class)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bjcqd_custom_class.zip)

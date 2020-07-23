@@ -1,6 +1,6 @@
 ---
 title: Press Release
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: woaze_press_release.png
 ---
 ```
@@ -11,4 +11,4 @@ A press release is a written statement to the media. Press releases are used to 
 Original Author:
 This template was created for LaTeXTemplates.com by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zakpw_press_release.zip&import_name=Press Release)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zakpw_press_release.zip)

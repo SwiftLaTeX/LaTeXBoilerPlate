@@ -1,6 +1,6 @@
 ---
 title: Science Journal
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: ryrch_academic_journal_8.jpg
 ---
 ```
@@ -12,4 +12,4 @@ The template provided here includes a filled-out example article, the Science bi
 Copyright Owner:
 The template provided here was created and is owned by Science. It is an unmodified version of that found on the Using LaTeX page on the Science website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fbeod_scifile.zip&import_name=Science Journal)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fbeod_scifile.zip)

@@ -1,6 +1,6 @@
 ---
 title: Stylish Title Page
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: qouzg_template-2.jpg
 ---
 ```
@@ -12,4 +12,4 @@ The template compiles as a standalone document to act as a starting point for cr
 Original Author:
 This title page was originally created by Peter Wilson but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/reept_template.zip&import_name=Stylish Title Page)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/reept_template.zip)

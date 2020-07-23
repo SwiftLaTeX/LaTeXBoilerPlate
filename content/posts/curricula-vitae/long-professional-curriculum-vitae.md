@@ -1,6 +1,6 @@
 ---
 title: Long Professional CV
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: jlqra_cv_1.png
 ---
 ```
@@ -12,4 +12,4 @@ Important note: The file ‘res.cls’ is required to be in the same directory a
 Original Author:
 This curriculum vitae was originally created by the Rensselaer Polytechnic Institute but has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/nychj_cv_1.zip&import_name=Long Professional CV)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/nychj_cv_1.zip)

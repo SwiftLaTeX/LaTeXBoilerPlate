@@ -1,6 +1,6 @@
 ---
 title: Maggi Memoir Thesis
-date: 2020-07-23T10:08:36+0000
+date: 2020-07-23T10:20:58+0000
 img: humzm_thesis_3.png
 ---
 ```
@@ -19,4 +19,4 @@ To compile the index and bibliography, you will need to run “bibtex” and “
 Original Author:
 This thesis was originally created by Federico Maggi but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/izjxc_thesis_3.zip&import_name=Maggi Memoir Thesis)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/izjxc_thesis_3.zip)
