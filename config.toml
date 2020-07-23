@@ -3,6 +3,6 @@ languageCode = "en-us"
 title = "LaTeX Boilerplates"
 theme = "hugo-cards"
 paginate = 9
-
+publishDir = "docs"
 [taxonomies]
 tag = "tags"

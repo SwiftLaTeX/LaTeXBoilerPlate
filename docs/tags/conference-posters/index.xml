@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference-posters on LaTeX Boilerplates</title>
+    <link>http://www.swiftlatex.org/tags/conference-posters/</link>
+    <description>Recent content in conference-posters on LaTeX Boilerplates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2020 04:54:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swiftlatex.org/tags/conference-posters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>a0poster Landscape Poster</title>
+      <link>http://www.swiftlatex.org/posts/conference-posters/a0poster-landscape-poster/</link>
+      <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
+      
+      <guid>http://www.swiftlatex.org/posts/conference-posters/a0poster-landscape-poster/</guid>
+      <description>a0poster Landscape Poster Description: This poster features a clean landscape layout with a large header section housing important information about the poster, a column for contact information and space for a logo of your institution or a photo of you. Poster content is neatly divided into four columns to make use of the space available as much as possible. The number of columns can easily be changed if you would like the extra width for larger tables and figures.</description>
+    </item>
+    
+    <item>
+      <title>a0poster Portrait Poster</title>
+      <link>http://www.swiftlatex.org/posts/conference-posters/a0poster-portrait-poster/</link>
+      <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
+      
+      <guid>http://www.swiftlatex.org/posts/conference-posters/a0poster-portrait-poster/</guid>
+      <description>a0poster Portrait Poster Description: This poster features a clean portrait layout with a large header section housing important information about the poster and space for a logo of your institution or a photo of you. Poster content is neatly divided into two columns which is typical for a poster with a portrait orientation. The number of columns can easily be changed if you would like more room for text. The template features the ability to easily change the color of any section or element and shows this off with several examples (e.</description>
+    </item>
+    
+    <item>
+      <title>baposter Landscape Poster</title>
+      <link>http://www.swiftlatex.org/posts/conference-posters/baposter-landscape-poster/</link>
+      <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
+      
+      <guid>http://www.swiftlatex.org/posts/conference-posters/baposter-landscape-poster/</guid>
+      <description>baposter Landscape Poster Description: This poster template features a large header with space for two logos to either side of the title and neatly divides poster content into separate boxes with clear headings in each one. The landscape layout features four columns which can be merged into larger blocks if required, such as in the Results 1, Conclusion and Future Research sections of the template. Merged blocks allow more space for showing off results while blocks taking up one column are ideal for small paragraphs of text or details about the research.</description>
+    </item>
+    
+    <item>
+      <title>baposter Portrait Poster</title>
+      <link>http://www.swiftlatex.org/posts/conference-posters/baposter-portrait-poster/</link>
+      <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
+      
+      <guid>http://www.swiftlatex.org/posts/conference-posters/baposter-portrait-poster/</guid>
+      <description>baposter Portrait Poster Description: This poster template neatly divides content into separate boxes with clear headings in each one. The portrait layout features a small side column for study details and a larger column to show off results obtained from the research. The larger column can be optionally divided into two columns to squeeze more information into the poster. The default colors of the template are in the blue spectrum but can be easily changed within the template.</description>
+    </item>
+    
+    <item>
+      <title>Dreuw &amp; Deselaer’s Poster</title>
+      <link>http://www.swiftlatex.org/posts/conference-posters/dreuw-deselaers-poster/</link>
+      <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
+      
+      <guid>http://www.swiftlatex.org/posts/conference-posters/dreuw-deselaers-poster/</guid>
+      <description>Dreuw &amp;amp; Deselaer’s Poster Description: This poster template features a dark gray color scheme for content and a contrasting title and footer to highlight important information about the research. Content is laid out in two columns in a portrait orientation but changing it to landscape and increasing the number of columns is quite easy. The template makes extensive use of lists for styling which promotes a clear and concise description of research.</description>
+    </item>
+    
+    <item>
+      <title>Jacobs Landscape Poster</title>
+      <link>http://www.swiftlatex.org/posts/conference-posters/jacobs-landscape-poster/</link>
+      <pubDate>Thu, 23 Jul 2020 04:54:47 +0000</pubDate>
+      
+      <guid>http://www.swiftlatex.org/posts/conference-posters/jacobs-landscape-poster/</guid>
+      <description>Jacobs Landscape Poster Description: This poster template features a clean sectioned look suitable for presenting research at a conference. Important information is highlighted with colored boxes and each section within the poster is clearly separated from the others. The layout of the template contains four columns but this can be changed to accommodate varying amounts of information or figures. Examples of a table, figure, equation, list and bibliography are present in the template to provide a starting point for any requirement you may have for your own poster.</description>
+    </item>
+    
+  </channel>
+</rss>
