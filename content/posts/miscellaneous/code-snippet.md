@@ -1,6 +1,6 @@
 ---
 title: Code Snippet
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: vxqqo_code_snippet.png
 ---
 ```
@@ -12,4 +12,4 @@ Important note: the template compiles as a standalone document but the code list
 Original Author:
 This template was created for LaTeXTemplates.com by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ogqmx_code_snippet.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ogqmx_code_snippet.zip&import_name=Code Snippet)

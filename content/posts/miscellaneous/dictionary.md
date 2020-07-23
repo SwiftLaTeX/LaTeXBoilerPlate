@@ -1,6 +1,6 @@
 ---
 title: Dictionary
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: ukqfs_dictionary.png
 ---
 ```
@@ -11,4 +11,4 @@ This template creates a dictionary with a two-column layout and clear headings d
 Original Author:
 This template was created by Vel, inspired by a template by Marc Lavaud.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/eounj_dictionary.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/eounj_dictionary.zip&import_name=Dictionary)

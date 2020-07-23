@@ -1,6 +1,6 @@
 ---
 title: Twenty Seconds Resume/CV
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: qjyod_cv_16-1.jpg
 ---
 ```
@@ -13,4 +13,4 @@ This template was originally created by Carmine Spagnuolo (GitHub repository) bu
 License:
 The MIT License
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/yidcb_cv_16.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/yidcb_cv_16.zip&import_name=Twenty Seconds Resume/CV)

@@ -1,6 +1,6 @@
 ---
 title: Institute of Electrical and Electronics Engineers (IEEE)
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: romhs_academic_journal_7.png
 ---
 ```
@@ -22,4 +22,4 @@ More information on submitting to IEEE transactions journals can be found here a
 Copyright Owner:
 The IEEEtran and IEEEphot classes and demo templates provided here were created and are owned by the IEEE – licensed under The LaTeX Project Public Li­cense 1.3. They are unmodified versions of that found on the IEEE page “Article Templates and Instructions”.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/cpaex_bare_adv.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/cpaex_bare_adv.zip&import_name=Institute of Electrical and Electronics Engineers (IEEE))

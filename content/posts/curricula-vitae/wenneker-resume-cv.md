@@ -1,6 +1,6 @@
 ---
 title: Wenneker Resume/CV
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: tguce_cv_15.jpg
 ---
 ```
@@ -11,4 +11,4 @@ This simple and clean Resume/CV template features a two column layout with your 
 Original Author:
 This template was originally created by Frits Wenneker but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/gwztt_cv_15.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/gwztt_cv_15.zip&import_name=Wenneker Resume/CV)

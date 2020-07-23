@@ -1,6 +1,6 @@
 ---
 title: Tufte-Style Book
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: rerth_book_1.png
 ---
 ```
@@ -12,4 +12,4 @@ This template consists of two compilable templates: the documentation template â
 Original Authors:
 The Tufte-LaTeX class and documentation template were originally created by the Tufte-LaTeX Developers. The minimal template has been created for this website and the documentation template has been modified to fit the commenting style of this website to make it easier to use.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/hvvav_book_1.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/hvvav_book_1.zip&import_name=Tufte-Style Book)

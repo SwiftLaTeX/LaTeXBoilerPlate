@@ -1,6 +1,6 @@
 ---
 title: kaobook
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: bfrpu_book_5.jpg
 ---
 ```
@@ -18,4 +18,4 @@ LaTeX Templates provides stable but older versions of templates as a general rul
 License
 The kaobook class files are licensed under the LaTeX Project Public License v1.3 or later. Examples and documentation are licensed under CC0 1.0 Universal. See the MANIFEST.md file included with the template for a breakdown of files covered under each license.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/gfhld_kaobook.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/gfhld_kaobook.zip&import_name=kaobook)

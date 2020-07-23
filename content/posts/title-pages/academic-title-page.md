@@ -1,6 +1,6 @@
 ---
 title: Academic Title Page
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: stois_main.jpg
 ---
 ```
@@ -12,4 +12,4 @@ The template compiles as a standalone document but comes with instructions for i
 Original Author:
 This title page was originally created for WikiBooks but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/goqic_template.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/goqic_template.zip&import_name=Academic Title Page)

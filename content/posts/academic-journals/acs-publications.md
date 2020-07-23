@@ -1,6 +1,6 @@
 ---
 title: ACS Publications
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: dessq_academic_journal_6.jpg
 ---
 ```
@@ -15,4 +15,4 @@ Accounts of Chemical Research; ACS Applied Materials; Interfaces; ACS Catalysis;
 Copyright Owner:
 The achemso class and demo template provided here were created and are owned by ACS Publications – licensed under The LaTeX Project Public Li­cense 1.3. They are an unmodified version of that found on the CTAN page for the achemso class (version 3.8a). More information on submitting to ACS Publications journals using this template can be found on their Preparing and Submitting Manuscripts Using TeX/LaTeX page.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wppza_achemso-demo.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wppza_achemso-demo.zip&import_name=ACS Publications)

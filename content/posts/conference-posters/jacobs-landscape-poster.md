@@ -1,6 +1,6 @@
 ---
 title: Jacobs Landscape Poster
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: ttnuu_conference_poster_1.png
 ---
 ```
@@ -11,4 +11,4 @@ This poster template features a clean sectioned look suitable for presenting res
 Original Author:
 This template was originally created by the Computational Physics and Biophysics Group, Jacobs University and was then modified by Nathaniel Johnston. Finally, it has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/jxfsr_conference_poster_1.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/jxfsr_conference_poster_1.zip&import_name=Jacobs Landscape Poster)

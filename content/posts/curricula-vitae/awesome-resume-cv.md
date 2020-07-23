@@ -1,6 +1,6 @@
 ---
 title: Awesome Resume/CV and Cover Letter
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: jaxtn_cv_14.jpg
 ---
 ```
@@ -12,4 +12,4 @@ Important notes: this template needs to be compiled with XeLaTeX, all required c
 Original Author:
 This template was originally created by Claud D. Park (GitHub repository) but has been modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tajec_cv_14.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tajec_cv_14.zip&import_name=Awesome Resume/CV and Cover Letter)

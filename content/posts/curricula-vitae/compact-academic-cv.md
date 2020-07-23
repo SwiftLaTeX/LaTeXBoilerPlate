@@ -1,6 +1,6 @@
 ---
 title: Compact Academic CV
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: rrzhn_cv_5.jpg
 ---
 ```
@@ -11,4 +11,4 @@ This curriculum vitae/resume template is designed to succinctly display your car
 Original Author:
 This curriculum vitae was originally created by Dario Taraborelli but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/aqrrm_cv_5.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/aqrrm_cv_5.zip&import_name=Compact Academic CV)

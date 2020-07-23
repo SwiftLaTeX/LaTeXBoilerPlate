@@ -1,6 +1,6 @@
 ---
 title: Wile E. Invoice
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: isvww_wile-e-invoice.jpg
 ---
 ```
@@ -11,4 +11,4 @@ This invoice template is for businesses or contractors who need to request payme
 Authors
 This template was created by Peter Morrison-Whittle and Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/dcxyv_wile-e-invoice.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/dcxyv_wile-e-invoice.zip&import_name=Wile E. Invoice)

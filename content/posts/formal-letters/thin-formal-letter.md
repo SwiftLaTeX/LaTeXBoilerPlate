@@ -1,6 +1,6 @@
 ---
 title: Thin Formal Letter
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: ibzue_formal_letter_1-1.jpg
 ---
 ```
@@ -11,4 +11,4 @@ This formal letter template has a narrow appearance pulling the attention of the
 Authorship:
 This template was originally an example created for WikiBooks but was rewritten from scratch for version 2.0 by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rhhgw_formal_letter_1.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rhhgw_formal_letter_1.zip&import_name=Thin Formal Letter)

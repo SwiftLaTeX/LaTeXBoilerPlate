@@ -1,6 +1,6 @@
 ---
 title: Wilson Resume/CV
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: mkiyq_cv_13.png
 ---
 ```
@@ -12,4 +12,4 @@ Important notes: this template needs to be compiled with XeLaTeX due to the incl
 Original Author:
 This template was originally created by Howard Wilson but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/irodr_cv_13.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/irodr_cv_13.zip&import_name=Wilson Resume/CV)

@@ -1,6 +1,6 @@
 ---
 title: Short Three Column Newsletter
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: tjumz_newsletter_1.png
 ---
 ```
@@ -11,4 +11,4 @@ This newsletter template is best suited to shorter newsletters consisting of sho
 Original Author:
 This template was created by Frits Wenneker but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uvqer_newsletter_1.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uvqer_newsletter_1.zip&import_name=Short Three Column Newsletter)

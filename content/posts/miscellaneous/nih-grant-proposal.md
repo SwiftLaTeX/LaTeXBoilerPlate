@@ -1,6 +1,6 @@
 ---
 title: NIH Grant Proposal
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: pkctf_NIHGrant.png
 ---
 ```
@@ -13,4 +13,4 @@ Some notes on the bibliobraphy: the original template the current template was a
 Original Author:
 This template was originally created by Erick Tatro adapted from J. Hrabe but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/qudfz_NIHGrant.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/qudfz_NIHGrant.zip&import_name=NIH Grant Proposal)

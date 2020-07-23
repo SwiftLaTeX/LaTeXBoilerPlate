@@ -1,6 +1,6 @@
 ---
 title: Elsevier’s elsarticle Document Class
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: jrdii_elsarticle_dummy.png
 ---
 ```
@@ -14,4 +14,4 @@ Copyright Owner:
 The elsarticle document class is created and owned by Elsevier. It is licensed under the LaTeX Project Public License (1.3). Any bugs, feature requests and suggestions about this class can be emailed to elsarticle@river-valley.com.
 LaTeX Templates cannot change this class or template in any way for redistribution and files provided here are unmodified from their original source at Elsevier. The example template has been filled in with dummy content to provide an example of how to fill out the templates within elsarticle.zip, it is otherwise unmodified.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rrtht_elsarticle.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rrtht_elsarticle.zip&import_name=Elsevier’s elsarticle Document Class)

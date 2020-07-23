@@ -1,6 +1,6 @@
 ---
 title: Arsclassica Article
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: jmuks_article_41.png
 ---
 ```
@@ -11,4 +11,4 @@ This article uses the Arsclassica package (a modification of the Classic Thesis 
 Original Author:
 This article template was originally created by Lorenzo Pantieri but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bgvbs_article_4.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bgvbs_article_4.zip&import_name=Arsclassica Article)

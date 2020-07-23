@@ -1,6 +1,6 @@
 ---
 title: Letter of Notice
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: hvuqu_formal_letter_3.jpg
 ---
 ```
@@ -11,4 +11,4 @@ This formal letter template is specifically tailored to provide a short notice t
 Original Author:
 This template was originally created by Rashadul Islam but has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uewkr_formal_letter_3.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uewkr_formal_letter_3.zip&import_name=Letter of Notice)

@@ -1,6 +1,6 @@
 ---
 title: Masters/Doctoral Thesis
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: xdcvx_thesis_1.jpg
 ---
 ```
@@ -13,4 +13,4 @@ Important note: this template comes as a zip file with multiple files and folder
 Original Author
 This second major version of this template was made by Vel. The thesis style was originally created by Steve R. Gunn and modified into a template by Sunil Patel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uskxy_thesis_1.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uskxy_thesis_1.zip&import_name=Masters/Doctoral Thesis)

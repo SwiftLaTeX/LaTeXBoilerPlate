@@ -1,6 +1,6 @@
 ---
 title: Classicthesis Typographic Thesis
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: ueqdl_thesis_2.png
 ---
 ```
@@ -15,4 +15,4 @@ This thesis was originally created by André Miede based on Robert Bringhurst’
 License:
 This template is licensed under the GNU General Public License (v2).
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fwena_thesis_2.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fwena_thesis_2.zip&import_name=Classicthesis Typographic Thesis)

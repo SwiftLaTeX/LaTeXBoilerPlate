@@ -1,6 +1,6 @@
 ---
 title: eBook
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: dzhtl_ebook.jpg
 ---
 ```
@@ -11,4 +11,4 @@ This ebook template is for those wishing to create a book in a format that is ea
 Original Author:
 This template was created by Luis Cobo with extensive modifications by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wgsqd_ebook.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wgsqd_ebook.zip&import_name=eBook)

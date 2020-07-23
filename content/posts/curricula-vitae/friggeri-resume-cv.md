@@ -1,6 +1,6 @@
 ---
 title: Friggeri Resume/CV
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: iaqas_cv_101.png
 ---
 ```
@@ -13,4 +13,4 @@ This template needs to be compiled with XeLaTeX and the bibliography, if used, n
 Original Author:
 This template was originally created by Adrien Friggeri but has been modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/qsnno_cv_10.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/qsnno_cv_10.zip&import_name=Friggeri Resume/CV)

@@ -1,6 +1,6 @@
 ---
 title: ModernCV and Cover Letter
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: rjctk_cv_71.png
 ---
 ```
@@ -11,4 +11,4 @@ This template uses the ‘ModernCV’ class to create a multi-page CV and cover 
 Original Author:
 The ModernCV class was created by Xavier Danaux.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/thaat_cv_7.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/thaat_cv_7.zip&import_name=ModernCV and Cover Letter)

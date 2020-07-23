@@ -1,6 +1,6 @@
 ---
 title: Compact Laboratory Book
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: hiyvu_lab_book_2.png
 ---
 ```
@@ -13,4 +13,4 @@ Important note: The file ‘labbook.cls’ is required to be in the same directo
 Original Author:
 This laboratory book template was originally created by Joan Queralt Gil using the labbook class by Frank Kuster but has been extensively modified for this website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/jgahk_lab_book_2.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/jgahk_lab_book_2.zip&import_name=Compact Laboratory Book)

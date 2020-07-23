@@ -1,6 +1,6 @@
 ---
 title: Deedy Resume/CV
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: uzslu_cv_12.png
 ---
 ```
@@ -13,4 +13,4 @@ Important notes: this template needs to be compiled with XeLaTeX. There should b
 Original Author:
 This template was originally created by Debarghya Das (GitHub repository) but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pmtdf_cv_12.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pmtdf_cv_12.zip&import_name=Deedy Resume/CV)

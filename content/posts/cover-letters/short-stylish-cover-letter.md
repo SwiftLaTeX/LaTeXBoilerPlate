@@ -1,6 +1,6 @@
 ---
 title: Short Stylish Cover Letter
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: qeitb_cover_letter_2.png
 ---
 ```
@@ -12,4 +12,4 @@ Important notes: this template needs to be compiled with XeLaTeX. There should b
 Original Author:
 This cover letter was originally created by kindoblue but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ybwgb_cover_letter_2.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ybwgb_cover_letter_2.zip&import_name=Short Stylish Cover Letter)

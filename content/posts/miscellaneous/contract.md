@@ -1,6 +1,6 @@
 ---
 title: Contract
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: gxqbc_contract.png
 ---
 ```
@@ -12,4 +12,4 @@ Note: If you are using Apple OS X, you have the option to use the Hoefler Text a
 Original Author:
 This template was created by Brandon Fryslie but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/kneda_contract.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/kneda_contract.zip&import_name=Contract)

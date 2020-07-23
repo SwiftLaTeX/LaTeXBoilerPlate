@@ -1,6 +1,6 @@
 ---
 title: Article Notes
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: btszt_article_notes.png
 ---
 ```
@@ -11,4 +11,4 @@ This template is for academics and students wishing to make notes on academic ar
 Original Author:
 This template was created by Vel and is a modification of a template by Christopher Eliot and Anthony Dardis.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/nskzo_article_notes.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/nskzo_article_notes.zip&import_name=Article Notes)

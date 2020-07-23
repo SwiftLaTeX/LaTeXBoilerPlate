@@ -1,6 +1,6 @@
 ---
 title: Professional Formal Letter
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: rsqjd_formal_letter_4.jpg
 ---
 ```
@@ -11,4 +11,4 @@ This formal letter template is suitable for individuals representing a professio
 Original Author:
 This template was originally created by Brian Moses but has been extensively modified for this website by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/jcpnf_formal_letter_4.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/jcpnf_formal_letter_4.zip&import_name=Professional Formal Letter)

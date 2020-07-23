@@ -1,6 +1,6 @@
 ---
 title: American Society of Mechanical Engineers (ASME)
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: tfyrw_academic_journal_10.png
 ---
 ```
@@ -14,4 +14,4 @@ Applied Mechanics Reviews, ASCE-ASME Journal of Risk and Uncertainty in Engineer
 Copyright Owner:
 The template provided here was created and is owned by the ASME. It is an unmodified version of that found on the Author Templates page linked through from the ASME website.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/twslq_journal-1.0b.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/twslq_journal-1.0b.zip&import_name=American Society of Mechanical Engineers (ASME))

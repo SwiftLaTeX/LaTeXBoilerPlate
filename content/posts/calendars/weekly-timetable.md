@@ -1,6 +1,6 @@
 ---
 title: Weekly Timetable
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: spmev_calendar_2.jpg
 ---
 ```
@@ -12,4 +12,4 @@ Important note: The file ‘calendar.sty’ is required to be in the same direct
 Original Author:
 The calendar style used to make this calendar was made by Evan Sultanik but the template file was made by Vel.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zmzgm_calendar_2.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zmzgm_calendar_2.zip&import_name=Weekly Timetable)

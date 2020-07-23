@@ -1,6 +1,6 @@
 ---
 title: fphw Assignment
-date: 2020-07-23T05:46:09+0000
+date: 2020-07-23T10:08:36+0000
 img: papvq_assignment_4.jpg
 ---
 ```
@@ -13,4 +13,4 @@ The fphw class and template were created by Felipe Portales-Oliva. Template cont
 License
 The fphw class is licensed under the The Unlicense. The template (main.tex) is licensed under CC BY-NC-SA 3.0.
 ```
-[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ulynb_assignment_4.zip)
+[Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ulynb_assignment_4.zip&import_name=fphw Assignment)
