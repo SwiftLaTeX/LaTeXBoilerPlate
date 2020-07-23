@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LaTeX Boilerplates</title>
+    <title>LaTeX Templates</title>
     <link>http://templates.swiftlatex.com/</link>
-    <description>Recent content on LaTeX Boilerplates</description>
+    <description>Recent content on LaTeX Templates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2020 05:46:09 +0000</lastBuildDate>
@@ -405,6 +405,15 @@
       
       <guid>http://templates.swiftlatex.com/posts/curricula-vitae/friggeri-resume-cv/</guid>
       <description>Friggeri Resume/CV Description: This beautiful Resume/CV template is suitable for anyone, from a designer with many short contracts to a scientist with varied publications. The template features a sidebar for important information such as contact details, languages, skills, titles, etc. The rest of the content is housed in clear colored sections with each entry featuring a space for a date, title, description and location. The publication list in this template is particularly useful for those that wish to list an extensive list of publications within separate categories.</description>
+    </item>
+    
+    <item>
+      <title>How to submit a new template?</title>
+      <link>http://templates.swiftlatex.com/posts/submit/</link>
+      <pubDate>Thu, 23 Jul 2020 05:46:09 +0000</pubDate>
+      
+      <guid>http://templates.swiftlatex.com/posts/submit/</guid>
+      <description>The website is hosted in https://github.com/SwiftLaTeX/LaTeXBoilerPlate. Send a pull request or create a new issue to submit your template. Thanks </description>
     </item>
     
     <item>
