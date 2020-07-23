@@ -1,7 +1,9 @@
 ---
 title: Awesome Resume/CV and Cover Letter
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: jaxtn_cv_14.jpg
+tags:
+- curricula-vitae
 ---
 ```
 Awesome Resume/CV and Cover Letter

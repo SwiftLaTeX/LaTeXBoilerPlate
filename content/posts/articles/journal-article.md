@@ -1,7 +1,9 @@
 ---
 title: Journal Article
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: foopu_article_2.png
+tags:
+- articles
 ---
 ```
 Journal Article

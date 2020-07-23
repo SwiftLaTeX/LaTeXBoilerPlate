@@ -1,7 +1,9 @@
 ---
 title: Long Professional CV
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: jlqra_cv_1.png
+tags:
+- curricula-vitae
 ---
 ```
 Long Professional CV

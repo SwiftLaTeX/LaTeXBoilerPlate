@@ -1,7 +1,9 @@
 ---
 title: Code Snippet
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: vxqqo_code_snippet.png
+tags:
+- miscellaneous
 ---
 ```
 Code Snippet

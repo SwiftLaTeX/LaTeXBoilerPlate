@@ -1,7 +1,9 @@
 ---
 title: ACS Publications
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: dessq_academic_journal_6.jpg
+tags:
+- academic-journals
 ---
 ```
 ACS Publications

@@ -1,7 +1,9 @@
 ---
 title: The Legrand Orange Book
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: ffxid_book_2.jpg
+tags:
+- books
 ---
 ```
 The Legrand Orange Book

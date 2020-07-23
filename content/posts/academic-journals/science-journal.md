@@ -1,7 +1,9 @@
 ---
 title: Science Journal
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: ryrch_academic_journal_8.jpg
+tags:
+- academic-journals
 ---
 ```
 Science Journal

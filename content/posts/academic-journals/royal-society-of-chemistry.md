@@ -1,7 +1,9 @@
 ---
 title: Royal Society of Chemistry
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: dqlfp_academic_journal_2.jpg
+tags:
+- academic-journals
 ---
 ```
 Royal Society of Chemistry

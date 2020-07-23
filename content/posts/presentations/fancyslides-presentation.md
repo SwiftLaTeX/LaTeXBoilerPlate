@@ -1,7 +1,9 @@
 ---
 title: Fancyslides Presentation
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: kphwd_presentation_3_cropped.png
+tags:
+- presentations
 ---
 ```
 Fancyslides Presentation

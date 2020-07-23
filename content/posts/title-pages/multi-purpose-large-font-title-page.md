@@ -1,7 +1,9 @@
 ---
 title: Multi-Purpose Large Font
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: labhm_template-1.jpg
+tags:
+- title-pages
 ---
 ```
 Multi-Purpose Large Font

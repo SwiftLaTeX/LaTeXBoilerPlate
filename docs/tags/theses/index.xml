@@ -6,44 +6,44 @@
     <description>Recent content in theses on LaTeX Templates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 05:28:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 10:53:29 +0000</lastBuildDate>
     
 	<atom:link href="https://swiftlatex.github.io/LaTeXBoilerPlate/tags/theses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Classicthesis Typographic Thesis</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/title-pages/theses/classicthesis-typographic-thesis/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
+      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/classicthesis-typographic-thesis/</link>
+      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/title-pages/theses/classicthesis-typographic-thesis/</guid>
+      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/classicthesis-typographic-thesis/</guid>
       <description>Classicthesis Typographic Thesis Description: This template has been designed as a homage to the elements of typographic style. As such, it has an air of efficiency and optimal design. It is suitable for any high-level degree thesis such as for a PhD, Masters or Honors. Sections within the thesis are clearly separated in a consistent way, as are sections within each chapter. The default structure of the thesis proceeds in the following order: title page, dedication, abstract, publications, acknowledgements, contents, list of tables/figures/listings, acronyms, content chapters, appendices, bibliography, colophon and declaration.</description>
     </item>
     
     <item>
       <title>kaobook</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/title-pages/theses/kaobook/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
+      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/kaobook/</link>
+      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/title-pages/theses/kaobook/</guid>
+      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/kaobook/</guid>
       <description>kaobook Description This template is designed for writing books and graduate-level theses and provides numerous examples and documentation to enable complex requirements. The design features a relatively narrow main text column with an adjacent wide margin to house notes, figures, tables, citations and captions. The narrow text column facilitates faster reading by reducing horizontal eye movement distance and makes reading less fatiguing. Content can be split into the standard section types of parts, chapters, sections, subsections, subsubsections and paragraphs with examples of all of these provided.</description>
     </item>
     
     <item>
       <title>Maggi Memoir Thesis</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/title-pages/theses/maggi-memoir-thesis/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
+      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/maggi-memoir-thesis/</link>
+      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/title-pages/theses/maggi-memoir-thesis/</guid>
+      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/maggi-memoir-thesis/</guid>
       <description>Maggi Memoir Thesis Description: This template uses the memoir document class to beautifully typeset a thesis. It is suitable for any high-level degree thesis such as for a PhD, Masters or Honors. The layout of the content is in a thin format to promote easy reading and the template features advanced specification of margins and trimming. An example of this is seen in the trimming lines within the preview for this template whereby the stock paper size and the size of the content are independently specified within the template.</description>
     </item>
     
     <item>
       <title>Masters/Doctoral Thesis</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/title-pages/theses/masters-doctoral-thesis/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
+      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/masters-doctoral-thesis/</link>
+      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/title-pages/theses/masters-doctoral-thesis/</guid>
+      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/masters-doctoral-thesis/</guid>
       <description>Masters/Doctoral Thesis Description This template provides a full framework for writing a graduate level thesis. It is carefully structured and separated into multiple parts for easy editing. Included are the following pages/sections: a cover page, declaration of authorship, quotation, abstract, acknowledgements, contents page(s), list of figures, list of tables, abbreviations, physical constants, symbols, dedication, example chapter, example appendix and bibliography. An example chapter is included which explains the basics of LaTeX and this template.</description>
     </item>
     

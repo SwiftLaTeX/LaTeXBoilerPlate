@@ -1,7 +1,9 @@
 ---
 title: Compact Academic CV
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: rrzhn_cv_5.jpg
+tags:
+- curricula-vitae
 ---
 ```
 Compact Academic CV

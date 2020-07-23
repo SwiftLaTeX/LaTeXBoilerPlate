@@ -1,7 +1,9 @@
 ---
 title: Masters/Doctoral Thesis
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: xdcvx_thesis_1.jpg
+tags:
+- theses
 ---
 ```
 Masters/Doctoral Thesis

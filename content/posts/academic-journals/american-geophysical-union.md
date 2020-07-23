@@ -1,7 +1,9 @@
 ---
 title: American Geophysical Union
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: ozmvl_academic_journal_5.jpg
+tags:
+- academic-journals
 ---
 ```
 American Geophysical Union

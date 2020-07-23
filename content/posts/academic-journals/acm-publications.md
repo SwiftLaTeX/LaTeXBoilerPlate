@@ -1,7 +1,9 @@
 ---
 title: Association for Computing Machinery (ACM)
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: hplmx_sample-acmsmall.jpg
+tags:
+- academic-journals
 ---
 ```
 Association for Computing Machinery (ACM)

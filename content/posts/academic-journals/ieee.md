@@ -1,7 +1,9 @@
 ---
 title: Institute of Electrical and Electronics Engineers (IEEE)
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: romhs_academic_journal_7.png
+tags:
+- academic-journals
 ---
 ```
 Institute of Electrical and Electronics Engineers (IEEE)

@@ -1,7 +1,9 @@
 ---
 title: American Society of Mechanical Engineers (ASME)
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: tfyrw_academic_journal_10.png
+tags:
+- academic-journals
 ---
 ```
 American Society of Mechanical Engineers (ASME)

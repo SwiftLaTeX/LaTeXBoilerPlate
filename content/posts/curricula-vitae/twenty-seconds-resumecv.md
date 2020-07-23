@@ -1,7 +1,9 @@
 ---
 title: Twenty Seconds Resume/CV
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: qjyod_cv_16-1.jpg
+tags:
+- curricula-vitae
 ---
 ```
 Twenty Seconds Resume/CV

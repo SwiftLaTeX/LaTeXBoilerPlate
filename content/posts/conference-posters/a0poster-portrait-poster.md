@@ -1,7 +1,9 @@
 ---
 title: a0poster Portrait Poster
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: rmerc_conference_poster_6.png
+tags:
+- conference-posters
 ---
 ```
 a0poster Portrait Poster

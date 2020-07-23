@@ -1,7 +1,9 @@
 ---
 title: Thin Formal Letter
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: ibzue_formal_letter_1-1.jpg
+tags:
+- formal-letters
 ---
 ```
 Thin Formal Letter

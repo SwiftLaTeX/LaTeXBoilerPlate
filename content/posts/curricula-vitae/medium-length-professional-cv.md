@@ -1,7 +1,9 @@
 ---
 title: Medium Length Professional
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: ylkvo_cv_41.png
+tags:
+- curricula-vitae
 ---
 ```
 Medium Length Professional

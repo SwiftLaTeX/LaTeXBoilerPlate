@@ -1,7 +1,9 @@
 ---
 title: ModernCV and Cover Letter
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: rjctk_cv_71.png
+tags:
+- curricula-vitae
 ---
 ```
 ModernCV and Cover Letter

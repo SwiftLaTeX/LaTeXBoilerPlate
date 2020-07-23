@@ -1,7 +1,9 @@
 ---
 title: Daily Laboratory Book
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: kukri_lab_book_1.png
+tags:
+- laboratory-books
 ---
 ```
 Daily Laboratory Book

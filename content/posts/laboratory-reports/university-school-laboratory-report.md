@@ -1,7 +1,9 @@
 ---
 title: University/School Laboratory Report
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: ubcrp_lab_report_12.png
+tags:
+- laboratory-reports
 ---
 ```
 University/School Laboratory Report

@@ -1,7 +1,9 @@
 ---
 title: Letter of Notice
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: hvuqu_formal_letter_3.jpg
+tags:
+- formal-letters
 ---
 ```
 Letter of Notice

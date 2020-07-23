@@ -1,7 +1,9 @@
 ---
 title: Friggeri Resume/CV
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: iaqas_cv_101.png
+tags:
+- curricula-vitae
 ---
 ```
 Friggeri Resume/CV

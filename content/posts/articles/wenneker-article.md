@@ -1,7 +1,9 @@
 ---
 title: Wenneker Article
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: zvieu_article_1.jpg
+tags:
+- articles
 ---
 ```
 Wenneker Article

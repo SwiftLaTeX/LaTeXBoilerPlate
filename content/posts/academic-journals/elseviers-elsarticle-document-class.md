@@ -1,7 +1,9 @@
 ---
 title: Elsevier’s elsarticle Document Class
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: jrdii_elsarticle_dummy.png
+tags:
+- academic-journals
 ---
 ```
 Elsevier’s elsarticle Document Class

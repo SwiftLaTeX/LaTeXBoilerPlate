@@ -1,7 +1,9 @@
 ---
 title: Long Lined Cover Letter
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: yngyf_cover_letter_3.png
+tags:
+- cover-letters
 ---
 ```
 Long Lined Cover Letter

@@ -1,7 +1,9 @@
 ---
 title: Conference Booklet
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: msqfj_conference_booklet.jpg
+tags:
+- miscellaneous
 ---
 ```
 Conference Booklet

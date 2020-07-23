@@ -1,7 +1,9 @@
 ---
 title: Professional Formal Letter
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: rsqjd_formal_letter_4.jpg
+tags:
+- formal-letters
 ---
 ```
 Professional Formal Letter

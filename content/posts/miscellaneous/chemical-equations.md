@@ -1,7 +1,9 @@
 ---
 title: Chemical Equations
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: cdpch_chemical_equations.png
+tags:
+- miscellaneous
 ---
 ```
 Chemical Equations

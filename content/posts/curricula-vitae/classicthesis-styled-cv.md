@@ -1,7 +1,9 @@
 ---
 title: Classicthesis-Styled CV
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: czesf_cv_8.png
+tags:
+- curricula-vitae
 ---
 ```
 Classicthesis-Styled CV

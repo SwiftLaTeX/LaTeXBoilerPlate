@@ -1,7 +1,9 @@
 ---
 title: Short Three Column Newsletter
-date: 2020-07-23T10:37:54+0000
+date: 2020-07-23T10:53:29+0000
 img: tjumz_newsletter_1.png
+tags:
+- newsletters
 ---
 ```
 Short Three Column Newsletter
