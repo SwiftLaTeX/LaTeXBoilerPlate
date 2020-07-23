@@ -2,66 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cover-letters on LaTeX Boilerplates</title>
-    <link>https://swiftlatex.github.io/LaTeXBoilerPlate/tags/cover-letters/</link>
+    <link>http://templates.swiftlatex.com/tags/cover-letters/</link>
     <description>Recent content in cover-letters on LaTeX Boilerplates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 05:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 05:28:34 +0000</lastBuildDate>
     
-	<atom:link href="https://swiftlatex.github.io/LaTeXBoilerPlate/tags/cover-letters/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://templates.swiftlatex.com/tags/cover-letters/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Long Lined Cover Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/cover-letters/long-lined-cover-letter/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/cover-letters/long-lined-cover-letter/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/cover-letters/long-lined-cover-letter/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/cover-letters/long-lined-cover-letter/</guid>
       <description>Long Lined Cover Letter Description: This cover letter template uses the newlfm package and features a clean professional layout which can take a large amount of text per page. The ability to include a company/institution logo at the top of the letter further adds to the professional look. The content of the letter itself is presented between two horizontal lines and contains your contact information, the addressee and letter content. Any element of the letter can be easily removed within the template to customize the layout to your requirements.</description>
     </item>
     
     <item>
       <title>Plain Cover Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/cover-letters/plain-cover-letter/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/cover-letters/plain-cover-letter/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/cover-letters/plain-cover-letter/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/cover-letters/plain-cover-letter/</guid>
       <description>Plain Cover Letter Description: A plain cover letter template with your name and address at the top in bold. The layout is traditional and is best suited to single-page letters. The format offers plenty of space for a longer cover letter and includes a description of the content that should be written in each paragraph. Original Author: This cover letter was originally created by the Rensselaer Polytechnic Institute but has been extensively modified for this website.</description>
     </item>
     
     <item>
       <title>Short Stylish Cover Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/cover-letters/short-stylish-cover-letter/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/cover-letters/short-stylish-cover-letter/</guid>
-      <description>Short Stylish Cover Letter Description: This stylish cover letter includes a custom large header and footer. The ‘To’ address is placed so as to show up in a windowed envelope. Unfortunately these do not leave much space for text but there are several ways of increasing available space described in the template. Important notes: this template needs to be compiled with XeLaTeX. There should be a setting in your LaTeX distribution to change to XeLaTeX.</description>
-    </item>
-    
-    <item>
-      <title>Long Lined Cover Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/cover-letters/long-lined-cover-letter/</link>
+      <link>http://templates.swiftlatex.com/posts/title-pages/cover-letters/short-stylish-cover-letter/</link>
       <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/cover-letters/long-lined-cover-letter/</guid>
-      <description>Long Lined Cover Letter Description: This cover letter template uses the newlfm package and features a clean professional layout which can take a large amount of text per page. The ability to include a company/institution logo at the top of the letter further adds to the professional look. The content of the letter itself is presented between two horizontal lines and contains your contact information, the addressee and letter content. Any element of the letter can be easily removed within the template to customize the layout to your requirements.</description>
-    </item>
-    
-    <item>
-      <title>Plain Cover Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/cover-letters/plain-cover-letter/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/cover-letters/plain-cover-letter/</guid>
-      <description>Plain Cover Letter Description: A plain cover letter template with your name and address at the top in bold. The layout is traditional and is best suited to single-page letters. The format offers plenty of space for a longer cover letter and includes a description of the content that should be written in each paragraph. Original Author: This cover letter was originally created by the Rensselaer Polytechnic Institute but has been extensively modified for this website.</description>
-    </item>
-    
-    <item>
-      <title>Short Stylish Cover Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/cover-letters/short-stylish-cover-letter/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/cover-letters/short-stylish-cover-letter/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/cover-letters/short-stylish-cover-letter/</guid>
       <description>Short Stylish Cover Letter Description: This stylish cover letter includes a custom large header and footer. The ‘To’ address is placed so as to show up in a windowed envelope. Unfortunately these do not leave much space for text but there are several ways of increasing available space described in the template. Important notes: this template needs to be compiled with XeLaTeX. There should be a setting in your LaTeX distribution to change to XeLaTeX.</description>
     </item>
     

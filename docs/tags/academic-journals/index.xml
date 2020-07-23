@@ -2,192 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>academic-journals on LaTeX Boilerplates</title>
-    <link>https://swiftlatex.github.io/LaTeXBoilerPlate/tags/academic-journals/</link>
+    <link>http://templates.swiftlatex.com/tags/academic-journals/</link>
     <description>Recent content in academic-journals on LaTeX Boilerplates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 05:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 05:28:34 +0000</lastBuildDate>
     
-	<atom:link href="https://swiftlatex.github.io/LaTeXBoilerPlate/tags/academic-journals/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://templates.swiftlatex.com/tags/academic-journals/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ACS Publications</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/acs-publications/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/academic-journals/acs-publications/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/acs-publications/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/academic-journals/acs-publications/</guid>
       <description>ACS Publications Description: American Chemical Society (ACS) Publications allows authors to submit their manuscripts formatted in LaTeX to any of their journals. For this, they provide a demo template which contains the structure and reference style they would like for submissions. The demo template provided here includes the achemso class, bibliography style, documentation and an example template with associated bibliography. While the demo template is extensively commented, any additional configuration options you need or problems you may experience are likely to be solved by reading the included achemso.</description>
     </item>
     
     <item>
       <title>American Geophysical Union</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/american-geophysical-union/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/academic-journals/american-geophysical-union/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/american-geophysical-union/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/academic-journals/american-geophysical-union/</guid>
       <description>American Geophysical Union Description The American Geophysical Union (AGU) allows authors to submit their manuscript formatted in LaTeX to any of their journals. For this, they provide a template which contains the structure and reference style they would like for submissions. The template contains two tex files, one for the article and another for supporting information. The AGU LaTeX template features a single-column draft layout by default. The template contains ample commenting which advises you how the AGU would like you to use the template.</description>
     </item>
     
     <item>
       <title>American Society of Mechanical Engineers (ASME)</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/asme/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/academic-journals/asme/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/asme/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/academic-journals/asme/</guid>
       <description>American Society of Mechanical Engineers (ASME) Description: The American Society of Mechanical Engineers (ASME) allows authors to submit their manuscripts formatted in LaTeX to any of their journals and conferences. For this, they provide three templates which contain the structure and referencing style they would like for submissions. If you are submitting a journal article for initial review, you should use the two-column journal template; if your journal article has been accepted then you should use the one-column journal template for production purposes.</description>
     </item>
     
     <item>
       <title>Association for Computing Machinery (ACM)</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/acm-publications/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/academic-journals/acm-publications/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/acm-publications/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/academic-journals/acm-publications/</guid>
       <description>Association for Computing Machinery (ACM) Description: The Association for Computing Machinery (ACM) allows authors to submit their manuscripts formatted in LaTeX to any of their journals. For this, they provide templates which contain the structure and referencing style they would like for submissions. For the vast majority of ACM journals, you should use the Small Standard Format Template, however, a few require one of the other templates, so find the journal you are submitting to in the list below to identify the template you should use.</description>
     </item>
     
     <item>
       <title>Elsevier’s elsarticle Document Class</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/elseviers-elsarticle-document-class/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/academic-journals/elseviers-elsarticle-document-class/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/elseviers-elsarticle-document-class/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/academic-journals/elseviers-elsarticle-document-class/</guid>
       <description>Elsevier’s elsarticle Document Class Description: Elsevier’s elsarticle document class and templates can be used by academics to write and submit journal articles to all Elsevier journals. There are presently over 2,700 journals published by Elsevier with over 250,000 articles published per year. Popular journals include Cell, The Lancet, Lancet Infectious Diseases and Lancet Neurology but a complete list of all Elsevier journals can be found here. Elsevier explicitly state that this class and templates are their preferred format for articles submitted to all of their journals.</description>
     </item>
     
     <item>
       <title>Institute of Electrical and Electronics Engineers (IEEE)</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/ieee/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/academic-journals/ieee/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/ieee/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/academic-journals/ieee/</guid>
       <description>Institute of Electrical and Electronics Engineers (IEEE) Description: The Institute of Electrical and Electronics Engineers (IEEE) allows authors to submit their publications formatted in LaTeX to any of their 100+ transactions journals except for IEEE Transactions on Dielectrics and Electrical Insulation. For this, they provide the IEEEtran class and demo templates which contain the structure and reference style they would like for submissions. The IEEE Photonics Society also provides the IEEEphot class and a demo template for submissions to IEEE Photonics.</description>
     </item>
     
     <item>
       <title>PNAS Journal</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/pnas/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/academic-journals/pnas/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/pnas/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/academic-journals/pnas/</guid>
       <description>PNAS Journal Description: The Proceedings of the National Academy of Sciences of the United States of America (PNAS) allows authors to submit their manuscript formatted in LaTeX to the PNAS Journal. For this, they provide a template which contains the structure and reference style they would like for submissions. The PNAS LaTeX template features a two-column layout and mirrors the layout seen in final publications released by PNAS. This allows authors to determine the exact length of their manuscripts as they will appear if accepted.</description>
     </item>
     
     <item>
       <title>Public Library of Science (PLOS)</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/public-library-of-science-plos/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/academic-journals/public-library-of-science-plos/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/public-library-of-science-plos/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/academic-journals/public-library-of-science-plos/</guid>
       <description>Public Library of Science (PLOS) Description: The Public Library of Science (PLOS) allows authors to submit their manuscript formatted in LaTeX to any of their journals. For this, they provide a template which contains the structure and reference style they would like for submissions. Journals published by PLOS include: PLOS ONE, PLOS Biology, PLOS Medicine, PLOS Computational Biology, PLOS Genetics, PLOS Pathogens, PLOS Neglected Tropical Diseases and PLOS Currents. The PLOS LaTeX template features an intentionally simple layout to make review easy and PLOS explicitly state that template elements should not be modified or removed.</description>
     </item>
     
     <item>
       <title>Royal Society of Chemistry</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/royal-society-of-chemistry/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/academic-journals/royal-society-of-chemistry/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/royal-society-of-chemistry/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/academic-journals/royal-society-of-chemistry/</guid>
       <description>Royal Society of Chemistry Description The Royal Society of Chemistry provides two LaTeX templates for authors to submit articles and communications to all journals they publish. Each template includes dummy content which provides an example for authors for how to write their paper in LaTeX. At the submission stage, author(s) are requested to provide a PDF of the manuscript typeset in LaTeX including all figures as well as the LaTeX files.</description>
     </item>
     
     <item>
       <title>Science Journal</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/science-journal/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/academic-journals/science-journal/</guid>
-      <description>Science Journal Description: The Science Journal allows authors to submit their manuscripts formatted in LaTeX. For this, they provide a template which contains the structure and reference style they would like for submissions. The template provided here includes a filled-out example article, the Science bibliography style, example bibliography and the scicite package used for formatting the reference numbers. The template is extensively commented and sectioned to make writing your Science manuscript easy.</description>
-    </item>
-    
-    <item>
-      <title>ACS Publications</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/acs-publications/</link>
+      <link>http://templates.swiftlatex.com/posts/title-pages/academic-journals/science-journal/</link>
       <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/acs-publications/</guid>
-      <description>ACS Publications Description: American Chemical Society (ACS) Publications allows authors to submit their manuscripts formatted in LaTeX to any of their journals. For this, they provide a demo template which contains the structure and reference style they would like for submissions. The demo template provided here includes the achemso class, bibliography style, documentation and an example template with associated bibliography. While the demo template is extensively commented, any additional configuration options you need or problems you may experience are likely to be solved by reading the included achemso.</description>
-    </item>
-    
-    <item>
-      <title>American Geophysical Union</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/american-geophysical-union/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/american-geophysical-union/</guid>
-      <description>American Geophysical Union Description The American Geophysical Union (AGU) allows authors to submit their manuscript formatted in LaTeX to any of their journals. For this, they provide a template which contains the structure and reference style they would like for submissions. The template contains two tex files, one for the article and another for supporting information. The AGU LaTeX template features a single-column draft layout by default. The template contains ample commenting which advises you how the AGU would like you to use the template.</description>
-    </item>
-    
-    <item>
-      <title>American Society of Mechanical Engineers (ASME)</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/asme/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/asme/</guid>
-      <description>American Society of Mechanical Engineers (ASME) Description: The American Society of Mechanical Engineers (ASME) allows authors to submit their manuscripts formatted in LaTeX to any of their journals and conferences. For this, they provide three templates which contain the structure and referencing style they would like for submissions. If you are submitting a journal article for initial review, you should use the two-column journal template; if your journal article has been accepted then you should use the one-column journal template for production purposes.</description>
-    </item>
-    
-    <item>
-      <title>Association for Computing Machinery (ACM)</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/acm-publications/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/acm-publications/</guid>
-      <description>Association for Computing Machinery (ACM) Description: The Association for Computing Machinery (ACM) allows authors to submit their manuscripts formatted in LaTeX to any of their journals. For this, they provide templates which contain the structure and referencing style they would like for submissions. For the vast majority of ACM journals, you should use the Small Standard Format Template, however, a few require one of the other templates, so find the journal you are submitting to in the list below to identify the template you should use.</description>
-    </item>
-    
-    <item>
-      <title>Elsevier’s elsarticle Document Class</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/elseviers-elsarticle-document-class/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/elseviers-elsarticle-document-class/</guid>
-      <description>Elsevier’s elsarticle Document Class Description: Elsevier’s elsarticle document class and templates can be used by academics to write and submit journal articles to all Elsevier journals. There are presently over 2,700 journals published by Elsevier with over 250,000 articles published per year. Popular journals include Cell, The Lancet, Lancet Infectious Diseases and Lancet Neurology but a complete list of all Elsevier journals can be found here. Elsevier explicitly state that this class and templates are their preferred format for articles submitted to all of their journals.</description>
-    </item>
-    
-    <item>
-      <title>Institute of Electrical and Electronics Engineers (IEEE)</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/ieee/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/ieee/</guid>
-      <description>Institute of Electrical and Electronics Engineers (IEEE) Description: The Institute of Electrical and Electronics Engineers (IEEE) allows authors to submit their publications formatted in LaTeX to any of their 100+ transactions journals except for IEEE Transactions on Dielectrics and Electrical Insulation. For this, they provide the IEEEtran class and demo templates which contain the structure and reference style they would like for submissions. The IEEE Photonics Society also provides the IEEEphot class and a demo template for submissions to IEEE Photonics.</description>
-    </item>
-    
-    <item>
-      <title>PNAS Journal</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/pnas/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/pnas/</guid>
-      <description>PNAS Journal Description: The Proceedings of the National Academy of Sciences of the United States of America (PNAS) allows authors to submit their manuscript formatted in LaTeX to the PNAS Journal. For this, they provide a template which contains the structure and reference style they would like for submissions. The PNAS LaTeX template features a two-column layout and mirrors the layout seen in final publications released by PNAS. This allows authors to determine the exact length of their manuscripts as they will appear if accepted.</description>
-    </item>
-    
-    <item>
-      <title>Public Library of Science (PLOS)</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/public-library-of-science-plos/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/public-library-of-science-plos/</guid>
-      <description>Public Library of Science (PLOS) Description: The Public Library of Science (PLOS) allows authors to submit their manuscript formatted in LaTeX to any of their journals. For this, they provide a template which contains the structure and reference style they would like for submissions. Journals published by PLOS include: PLOS ONE, PLOS Biology, PLOS Medicine, PLOS Computational Biology, PLOS Genetics, PLOS Pathogens, PLOS Neglected Tropical Diseases and PLOS Currents. The PLOS LaTeX template features an intentionally simple layout to make review easy and PLOS explicitly state that template elements should not be modified or removed.</description>
-    </item>
-    
-    <item>
-      <title>Royal Society of Chemistry</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/royal-society-of-chemistry/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/royal-society-of-chemistry/</guid>
-      <description>Royal Society of Chemistry Description The Royal Society of Chemistry provides two LaTeX templates for authors to submit articles and communications to all journals they publish. Each template includes dummy content which provides an example for authors for how to write their paper in LaTeX. At the submission stage, author(s) are requested to provide a PDF of the manuscript typeset in LaTeX including all figures as well as the LaTeX files.</description>
-    </item>
-    
-    <item>
-      <title>Science Journal</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/science-journal/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/academic-journals/science-journal/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/academic-journals/science-journal/</guid>
       <description>Science Journal Description: The Science Journal allows authors to submit their manuscripts formatted in LaTeX. For this, they provide a template which contains the structure and reference style they would like for submissions. The template provided here includes a filled-out example article, the Science bibliography style, example bibliography and the scicite package used for formatting the reference numbers. The template is extensively commented and sectioned to make writing your Science manuscript easy.</description>
     </item>
     

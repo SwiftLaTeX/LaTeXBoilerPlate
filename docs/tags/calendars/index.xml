@@ -2,66 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>calendars on LaTeX Boilerplates</title>
-    <link>https://swiftlatex.github.io/LaTeXBoilerPlate/tags/calendars/</link>
+    <link>http://templates.swiftlatex.com/tags/calendars/</link>
     <description>Recent content in calendars on LaTeX Boilerplates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 05:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 05:28:34 +0000</lastBuildDate>
     
-	<atom:link href="https://swiftlatex.github.io/LaTeXBoilerPlate/tags/calendars/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://templates.swiftlatex.com/tags/calendars/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference/Event Timetable</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/calendars/conference-event-timetable/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/calendars/conference-event-timetable/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/calendars/conference-event-timetable/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/calendars/conference-event-timetable/</guid>
       <description>Conference/Event Timetable Description: This calendar template is useful for creating a conference/event calendar. Each day can be given a title (such as your location on that day) followed by the plan for that day. The calendar can span any number of weeks and the starting dates can be changed. Important note: The file ‘calendar.sty’ is required to be in the same directory as the template because the .tex file uses this custom style for structuring the calendar.</description>
     </item>
     
     <item>
       <title>Monthly Calendar</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/calendars/monthly-calendar/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/calendars/monthly-calendar/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/calendars/monthly-calendar/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/calendars/monthly-calendar/</guid>
       <description>Monthly Calendar Description: This calendar template is useful for creating a calendar month on a single A4 sheet of paper. This can be left blank with just the day numbers or text can be written for individual days. The starting day and date can be readily changed within the template. LaTeX is not made for easily numbering calendars and automatically adjusting to different needs. This means this template can be a bit finicky but it has been extensively commented to make it as easy as possible to use.</description>
     </item>
     
     <item>
       <title>Weekly Timetable</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/calendars/weekly-timetable/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/calendars/weekly-timetable/</guid>
-      <description>Weekly Timetable Description: This calendar template is useful for creating a weekly calendar of recurring events. Within each day, the time of the event is divided from the event title for easy scheduling. This layout would suit a university student planning their weekly lectures, as shown in the example. Important note: The file ‘calendar.sty’ is required to be in the same directory as the template because the .tex file uses this custom style for structuring the calendar.</description>
-    </item>
-    
-    <item>
-      <title>Conference/Event Timetable</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/calendars/conference-event-timetable/</link>
+      <link>http://templates.swiftlatex.com/posts/title-pages/calendars/weekly-timetable/</link>
       <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/calendars/conference-event-timetable/</guid>
-      <description>Conference/Event Timetable Description: This calendar template is useful for creating a conference/event calendar. Each day can be given a title (such as your location on that day) followed by the plan for that day. The calendar can span any number of weeks and the starting dates can be changed. Important note: The file ‘calendar.sty’ is required to be in the same directory as the template because the .tex file uses this custom style for structuring the calendar.</description>
-    </item>
-    
-    <item>
-      <title>Monthly Calendar</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/calendars/monthly-calendar/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/calendars/monthly-calendar/</guid>
-      <description>Monthly Calendar Description: This calendar template is useful for creating a calendar month on a single A4 sheet of paper. This can be left blank with just the day numbers or text can be written for individual days. The starting day and date can be readily changed within the template. LaTeX is not made for easily numbering calendars and automatically adjusting to different needs. This means this template can be a bit finicky but it has been extensively commented to make it as easy as possible to use.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Timetable</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/calendars/weekly-timetable/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/calendars/weekly-timetable/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/calendars/weekly-timetable/</guid>
       <description>Weekly Timetable Description: This calendar template is useful for creating a weekly calendar of recurring events. Within each day, the time of the event is divided from the event title for easy scheduling. This layout would suit a university student planning their weekly lectures, as shown in the example. Important note: The file ‘calendar.sty’ is required to be in the same directory as the template because the .tex file uses this custom style for structuring the calendar.</description>
     </item>
     

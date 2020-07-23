@@ -2,66 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>presentations on LaTeX Boilerplates</title>
-    <link>https://swiftlatex.github.io/LaTeXBoilerPlate/tags/presentations/</link>
+    <link>http://templates.swiftlatex.com/tags/presentations/</link>
     <description>Recent content in presentations on LaTeX Boilerplates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 05:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 05:28:34 +0000</lastBuildDate>
     
-	<atom:link href="https://swiftlatex.github.io/LaTeXBoilerPlate/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://templates.swiftlatex.com/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Beamer Presentation</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/presentations/beamer-presentation/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/presentations/beamer-presentation/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/presentations/beamer-presentation/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/presentations/beamer-presentation/</guid>
       <description>Beamer Presentation Description: This presentation template uses the well-known Beamer class and shows how effortless presentation-making with LaTeX can be. The template has examples of most of the features that are typically found in a presentation, including the following example slides: title, overview, paragraphs of text, bullet points, blocks of highlighted text, multiple columns, tables, theorems, verbatim text, figures, citations, references and conclusions/acknowledgments. Examples of how to use sections and subsections show how a presentation can be broken down into distinct pieces for automatic inclusion on the overview slide.</description>
     </item>
     
     <item>
       <title>Fancyslides Presentation</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/presentations/fancyslides-presentation/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/presentations/fancyslides-presentation/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/presentations/fancyslides-presentation/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/presentations/fancyslides-presentation/</guid>
       <description>Fancyslides Presentation Description: This presentation template uses the Fancyslides class which builds on top of the well-known beamer class to give it a modern and concise design. The template is very minimalist with large font sizes and little space for text and would thus be suited for popular presentations by confident speakers. It makes extensive use of background images for slides to provide a strong visual counterpart to the verbal presentation.</description>
     </item>
     
     <item>
       <title>KOMA-Script Presentation</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/presentations/koma-script-presentation/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/presentations/koma-script-presentation/</guid>
-      <description>KOMA-Script Presentation Description: This presentation template is unique in that it uses the standard KOMA-Script scrartcl class to create a beautiful presentation. The use of a standard class means that this template allows direct copy/pasting from other LaTeX documents and doesn’t require specialized commands like other presentation classes. The design of the slides is focused on readability with large fonts and line spacing. Each slide features a running head and a footer with information about the author as well as progress through the presentation.</description>
-    </item>
-    
-    <item>
-      <title>Beamer Presentation</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/presentations/beamer-presentation/</link>
+      <link>http://templates.swiftlatex.com/posts/title-pages/presentations/koma-script-presentation/</link>
       <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/presentations/beamer-presentation/</guid>
-      <description>Beamer Presentation Description: This presentation template uses the well-known Beamer class and shows how effortless presentation-making with LaTeX can be. The template has examples of most of the features that are typically found in a presentation, including the following example slides: title, overview, paragraphs of text, bullet points, blocks of highlighted text, multiple columns, tables, theorems, verbatim text, figures, citations, references and conclusions/acknowledgments. Examples of how to use sections and subsections show how a presentation can be broken down into distinct pieces for automatic inclusion on the overview slide.</description>
-    </item>
-    
-    <item>
-      <title>Fancyslides Presentation</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/presentations/fancyslides-presentation/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/presentations/fancyslides-presentation/</guid>
-      <description>Fancyslides Presentation Description: This presentation template uses the Fancyslides class which builds on top of the well-known beamer class to give it a modern and concise design. The template is very minimalist with large font sizes and little space for text and would thus be suited for popular presentations by confident speakers. It makes extensive use of background images for slides to provide a strong visual counterpart to the verbal presentation.</description>
-    </item>
-    
-    <item>
-      <title>KOMA-Script Presentation</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/presentations/koma-script-presentation/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/presentations/koma-script-presentation/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/presentations/koma-script-presentation/</guid>
       <description>KOMA-Script Presentation Description: This presentation template is unique in that it uses the standard KOMA-Script scrartcl class to create a beautiful presentation. The use of a standard class means that this template allows direct copy/pasting from other LaTeX documents and doesn’t require specialized commands like other presentation classes. The design of the slides is focused on readability with large fonts and line spacing. Each slide features a running head and a footer with information about the author as well as progress through the presentation.</description>
     </item>
     

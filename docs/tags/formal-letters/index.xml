@@ -2,84 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>formal-letters on LaTeX Boilerplates</title>
-    <link>https://swiftlatex.github.io/LaTeXBoilerPlate/tags/formal-letters/</link>
+    <link>http://templates.swiftlatex.com/tags/formal-letters/</link>
     <description>Recent content in formal-letters on LaTeX Boilerplates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 05:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 05:28:34 +0000</lastBuildDate>
     
-	<atom:link href="https://swiftlatex.github.io/LaTeXBoilerPlate/tags/formal-letters/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://templates.swiftlatex.com/tags/formal-letters/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Elmueller Formal Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/formal-letters/full-size-formal-letter/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/formal-letters/full-size-formal-letter/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/formal-letters/full-size-formal-letter/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/formal-letters/full-size-formal-letter/</guid>
       <description>Elmueller Formal Letter Description: This formal letter template uses the ‘scrlttr2’ class to structure the letter for mailing with a special section for the addressee designed for windowed envelopes. The letter content is wide and fills the entire page with ample spacing between paragraphs for easy reading. Original Author: This formal letter was originally created by Micha Elmueller but has been extensively modified for this website. Open this template in SwiftLaTeX</description>
     </item>
     
     <item>
       <title>Letter of Notice</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/formal-letters/letter-of-notice/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/formal-letters/letter-of-notice/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/formal-letters/letter-of-notice/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/formal-letters/letter-of-notice/</guid>
       <description>Letter of Notice Description: This formal letter template is specifically tailored to provide a short notice to the addressee. The large heading bar at the top provides a central focus for the letter while the body of the letter is intentionally narrow, centered and in an 11pt font size with increased spacing to restrict the text of the letter to a single sharp message. This template would be most suited to a short formal communication of notice between a client and a business, such as for a notice of inspection, resignation letter or a letter stating intent to move out of a property.</description>
     </item>
     
     <item>
       <title>Professional Formal Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/formal-letters/professional-formal-letter/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
+      <link>http://templates.swiftlatex.com/posts/title-pages/formal-letters/professional-formal-letter/</link>
+      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/formal-letters/professional-formal-letter/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/formal-letters/professional-formal-letter/</guid>
       <description>Professional Formal Letter Description: This formal letter template is suitable for individuals representing a professional institution such as a university, company or organization. This is most evident in the large header at the top of the letter where there is space for a logo and a large institution name along with your name and title. A block for your information is neatly tucked away underneath the header line on the right with a vertically-overlapping block for the addressee information underneath on the left.</description>
     </item>
     
     <item>
       <title>Thin Formal Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/formal-letters/thin-formal-letter/</link>
-      <pubDate>Thu, 23 Jul 2020 05:33:59 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/formal-letters/thin-formal-letter/</guid>
-      <description>Thin Formal Letter Description: This formal letter template has a narrow appearance pulling the attention of the reader to the minimal amount of text. The layout is very conservative so as to give an air of formality and ample space is left on the bottom of the letter for a signature. Address fields are provided for both the sender and recipient of the letter. The template also features an example of how to add a postscript (P.</description>
-    </item>
-    
-    <item>
-      <title>Elmueller Formal Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/formal-letters/full-size-formal-letter/</link>
+      <link>http://templates.swiftlatex.com/posts/title-pages/formal-letters/thin-formal-letter/</link>
       <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
       
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/formal-letters/full-size-formal-letter/</guid>
-      <description>Elmueller Formal Letter Description: This formal letter template uses the ‘scrlttr2’ class to structure the letter for mailing with a special section for the addressee designed for windowed envelopes. The letter content is wide and fills the entire page with ample spacing between paragraphs for easy reading. Original Author: This formal letter was originally created by Micha Elmueller but has been extensively modified for this website. Open this template in SwiftLaTeX</description>
-    </item>
-    
-    <item>
-      <title>Letter of Notice</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/formal-letters/letter-of-notice/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/formal-letters/letter-of-notice/</guid>
-      <description>Letter of Notice Description: This formal letter template is specifically tailored to provide a short notice to the addressee. The large heading bar at the top provides a central focus for the letter while the body of the letter is intentionally narrow, centered and in an 11pt font size with increased spacing to restrict the text of the letter to a single sharp message. This template would be most suited to a short formal communication of notice between a client and a business, such as for a notice of inspection, resignation letter or a letter stating intent to move out of a property.</description>
-    </item>
-    
-    <item>
-      <title>Professional Formal Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/formal-letters/professional-formal-letter/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/formal-letters/professional-formal-letter/</guid>
-      <description>Professional Formal Letter Description: This formal letter template is suitable for individuals representing a professional institution such as a university, company or organization. This is most evident in the large header at the top of the letter where there is space for a logo and a large institution name along with your name and title. A block for your information is neatly tucked away underneath the header line on the right with a vertically-overlapping block for the addressee information underneath on the left.</description>
-    </item>
-    
-    <item>
-      <title>Thin Formal Letter</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/formal-letters/thin-formal-letter/</link>
-      <pubDate>Thu, 23 Jul 2020 05:28:34 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/title-pages/formal-letters/thin-formal-letter/</guid>
+      <guid>http://templates.swiftlatex.com/posts/title-pages/formal-letters/thin-formal-letter/</guid>
       <description>Thin Formal Letter Description: This formal letter template has a narrow appearance pulling the attention of the reader to the minimal amount of text. The layout is very conservative so as to give an air of formality and ample space is left on the bottom of the letter for a signature. Address fields are provided for both the sender and recipient of the letter. The template also features an example of how to add a postscript (P.</description>
     </item>
     

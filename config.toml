@@ -1,4 +1,4 @@
-baseURL = "https://swiftlatex.github.io/LaTeXBoilerPlate/"
+baseURL = "http://templates.swiftlatex.com/"
 languageCode = "en-us"
 title = "LaTeX Boilerplates"
 theme = "hugo-cards"
