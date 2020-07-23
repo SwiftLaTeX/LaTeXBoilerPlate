@@ -1,0 +1,8 @@
+baseURL = "http://www.swiftlatex.org/"
+languageCode = "en-us"
+title = "LaTeX Boilerplates"
+theme = "hugo-cards"
+paginate = 9
+
+[taxonomies]
+tag = "tags"
