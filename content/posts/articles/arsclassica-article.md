@@ -8,6 +8,8 @@ tags:
 ```
 Arsclassica Article
 
+This template requires legacy PDFLaTeX.
+
 Description:
 This article uses the Arsclassica package (a modification of the Classic Thesis package) to specify the document layout and structure. The template features a single column layout which makes it suitable for a greater number of applications such as for academic articles, business articles and reports. The page layout is very clean and minimal to focus on the content at hand in an elegant way. Examples of virtually all typical article constituents are included: references, mathematics, lists, figures, tables, sections and theorems. The template is one-sided by default but can easily be switched to two-side mode for binding.
 Original Author:

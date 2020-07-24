@@ -17,16 +17,7 @@
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/classicthesis-typographic-thesis/</guid>
-      <description>Classicthesis Typographic Thesis Description: This template has been designed as a homage to the elements of typographic style. As such, it has an air of efficiency and optimal design. It is suitable for any high-level degree thesis such as for a PhD, Masters or Honors. Sections within the thesis are clearly separated in a consistent way, as are sections within each chapter. The default structure of the thesis proceeds in the following order: title page, dedication, abstract, publications, acknowledgements, contents, list of tables/figures/listings, acronyms, content chapters, appendices, bibliography, colophon and declaration.</description>
-    </item>
-    
-    <item>
-      <title>kaobook</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/kaobook/</link>
-      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/kaobook/</guid>
-      <description>kaobook Description This template is designed for writing books and graduate-level theses and provides numerous examples and documentation to enable complex requirements. The design features a relatively narrow main text column with an adjacent wide margin to house notes, figures, tables, citations and captions. The narrow text column facilitates faster reading by reducing horizontal eye movement distance and makes reading less fatiguing. Content can be split into the standard section types of parts, chapters, sections, subsections, subsubsections and paragraphs with examples of all of these provided.</description>
+      <description>Classicthesis Typographic Thesis This template is designed for PDFLaTeX. Description: This template has been designed as a homage to the elements of typographic style. As such, it has an air of efficiency and optimal design. It is suitable for any high-level degree thesis such as for a PhD, Masters or Honors. Sections within the thesis are clearly separated in a consistent way, as are sections within each chapter. The default structure of the thesis proceeds in the following order: title page, dedication, abstract, publications, acknowledgements, contents, list of tables/figures/listings, acronyms, content chapters, appendices, bibliography, colophon and declaration.</description>
     </item>
     
     <item>

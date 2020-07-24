@@ -8,6 +8,8 @@ tags:
 ```
 Compact Laboratory Book
 
+This template is designed for PDFLaTeX.
+
 Description:
 This template is useful for keeping track of progress made on different experiments in a laboratory. It features a compact layout for clean reading with each day clearly distinct from other days. Multiple experiments and sub-experiments can be cited for each day allowing the tracking of progress on multiple different avenues of research more easily. The template includes examples of a table, figure, equation, bibliography and citation. Hyperlinks to citations, figures and pages means the lab book is easy to navigate for later information retrieval during writing up.
 Please read the commented text at the start of the template to learn how it works.

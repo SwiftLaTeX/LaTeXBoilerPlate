@@ -8,6 +8,8 @@ tags:
 ```
 Diaz Essay
 
+The template is designed for PDFLaTeX.
+
 Description
 This essay template is best used for literature essays containing mostly text. This is supported by a thin single column layout with clear unnumbered section titles to increase readability. The template contains an abstract, keywords and references, which makes it suitable for college/university essays but these elements can be easily removed for a simpler high school essay. Further examples of common essay components are included: referencing using a bibliography, an inline figure, a table and lists.
 Original Author

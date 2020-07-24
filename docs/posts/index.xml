@@ -71,7 +71,7 @@
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/articles/arsclassica-article/</guid>
-      <description>Arsclassica Article Description: This article uses the Arsclassica package (a modification of the Classic Thesis package) to specify the document layout and structure. The template features a single column layout which makes it suitable for a greater number of applications such as for academic articles, business articles and reports. The page layout is very clean and minimal to focus on the content at hand in an elegant way. Examples of virtually all typical article constituents are included: references, mathematics, lists, figures, tables, sections and theorems.</description>
+      <description>Arsclassica Article This template requires legacy PDFLaTeX. Description: This article uses the Arsclassica package (a modification of the Classic Thesis package) to specify the document layout and structure. The template features a single column layout which makes it suitable for a greater number of applications such as for academic articles, business articles and reports. The page layout is very clean and minimal to focus on the content at hand in an elegant way.</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/conference-posters/baposter-landscape-poster/</guid>
-      <description>baposter Landscape Poster Description: This poster template features a large header with space for two logos to either side of the title and neatly divides poster content into separate boxes with clear headings in each one. The landscape layout features four columns which can be merged into larger blocks if required, such as in the Results 1, Conclusion and Future Research sections of the template. Merged blocks allow more space for showing off results while blocks taking up one column are ideal for small paragraphs of text or details about the research.</description>
+      <description>baposter Landscape Poster This template requires legacy PDFLaTeX. Description: This poster template features a large header with space for two logos to either side of the title and neatly divides poster content into separate boxes with clear headings in each one. The landscape layout features four columns which can be merged into larger blocks if required, such as in the Results 1, Conclusion and Future Research sections of the template. Merged blocks allow more space for showing off results while blocks taking up one column are ideal for small paragraphs of text or details about the research.</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/conference-posters/baposter-portrait-poster/</guid>
-      <description>baposter Portrait Poster Description: This poster template neatly divides content into separate boxes with clear headings in each one. The portrait layout features a small side column for study details and a larger column to show off results obtained from the research. The larger column can be optionally divided into two columns to squeeze more information into the poster. The default colors of the template are in the blue spectrum but can be easily changed within the template.</description>
+      <description>baposter Portrait Poster This templates requires legacy PDFLaTeX. Description: This poster template neatly divides content into separate boxes with clear headings in each one. The portrait layout features a small side column for study details and a larger column to show off results obtained from the research. The larger column can be optionally divided into two columns to squeeze more information into the poster. The default colors of the template are in the blue spectrum but can be easily changed within the template.</description>
     </item>
     
     <item>
@@ -179,7 +179,7 @@
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/classicthesis-typographic-thesis/</guid>
-      <description>Classicthesis Typographic Thesis Description: This template has been designed as a homage to the elements of typographic style. As such, it has an air of efficiency and optimal design. It is suitable for any high-level degree thesis such as for a PhD, Masters or Honors. Sections within the thesis are clearly separated in a consistent way, as are sections within each chapter. The default structure of the thesis proceeds in the following order: title page, dedication, abstract, publications, acknowledgements, contents, list of tables/figures/listings, acronyms, content chapters, appendices, bibliography, colophon and declaration.</description>
+      <description>Classicthesis Typographic Thesis This template is designed for PDFLaTeX. Description: This template has been designed as a homage to the elements of typographic style. As such, it has an air of efficiency and optimal design. It is suitable for any high-level degree thesis such as for a PhD, Masters or Honors. Sections within the thesis are clearly separated in a consistent way, as are sections within each chapter. The default structure of the thesis proceeds in the following order: title page, dedication, abstract, publications, acknowledgements, contents, list of tables/figures/listings, acronyms, content chapters, appendices, bibliography, colophon and declaration.</description>
     </item>
     
     <item>
@@ -210,21 +210,12 @@
     </item>
     
     <item>
-      <title>Compact Academic CV</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/curricula-vitae/compact-academic-cv/</link>
-      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/curricula-vitae/compact-academic-cv/</guid>
-      <description>Compact Academic CV Description: This curriculum vitae/resume template is designed to succinctly display your career information and works particularly well for showcasing academic careers. Academics tend to have many appointments, honours and publications which this template compresses down to single lines to maximise readability and minimise length. The design is minimalist with plenty of whitespace and a central feature of the template is the optional year labels for all entries in the CV.</description>
-    </item>
-    
-    <item>
       <title>Compact Laboratory Book</title>
       <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/laboratory-books/compact-laboratory-book/</link>
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/laboratory-books/compact-laboratory-book/</guid>
-      <description>Compact Laboratory Book Description: This template is useful for keeping track of progress made on different experiments in a laboratory. It features a compact layout for clean reading with each day clearly distinct from other days. Multiple experiments and sub-experiments can be cited for each day allowing the tracking of progress on multiple different avenues of research more easily. The template includes examples of a table, figure, equation, bibliography and citation.</description>
+      <description>Compact Laboratory Book This template is designed for PDFLaTeX. Description: This template is useful for keeping track of progress made on different experiments in a laboratory. It features a compact layout for clean reading with each day clearly distinct from other days. Multiple experiments and sub-experiments can be cited for each day allowing the tracking of progress on multiple different avenues of research more easily. The template includes examples of a table, figure, equation, bibliography and citation.</description>
     </item>
     
     <item>
@@ -296,7 +287,7 @@
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/essays/diaz-essay/</guid>
-      <description>Diaz Essay Description This essay template is best used for literature essays containing mostly text. This is supported by a thin single column layout with clear unnumbered section titles to increase readability. The template contains an abstract, keywords and references, which makes it suitable for college/university essays but these elements can be easily removed for a simpler high school essay. Further examples of common essay components are included: referencing using a bibliography, an inline figure, a table and lists.</description>
+      <description>Diaz Essay The template is designed for PDFLaTeX. Description This essay template is best used for literature essays containing mostly text. This is supported by a thin single column layout with clear unnumbered section titles to increase readability. The template contains an abstract, keywords and references, which makes it suitable for college/university essays but these elements can be easily removed for a simpler high school essay. Further examples of common essay components are included: referencing using a bibliography, an inline figure, a table and lists.</description>
     </item>
     
     <item>
@@ -399,15 +390,6 @@
     </item>
     
     <item>
-      <title>Friggeri Resume/CV</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/curricula-vitae/friggeri-resume-cv/</link>
-      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/curricula-vitae/friggeri-resume-cv/</guid>
-      <description>Friggeri Resume/CV Description: This beautiful Resume/CV template is suitable for anyone, from a designer with many short contracts to a scientist with varied publications. The template features a sidebar for important information such as contact details, languages, skills, titles, etc. The rest of the content is housed in clear colored sections with each entry featuring a space for a date, title, description and location. The publication list in this template is particularly useful for those that wish to list an extensive list of publications within separate categories.</description>
-    </item>
-    
-    <item>
       <title>Institute of Electrical and Electronics Engineers (IEEE)</title>
       <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/academic-journals/ieee/</link>
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
@@ -441,33 +423,6 @@
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/articles/journal-article/</guid>
       <description>Journal Article Description: This article template aims to emulate scientific journal publications by using a conservative thin document style. The format of the template follows the typical journal publication including an abstract for summarizing the article, introduction, methods, results and discussion. Examples of an equation, table and list are included. Original Author: This article template was originally created by Frits Wenneker but has been extensively modified for this website by Vel.</description>
-    </item>
-    
-    <item>
-      <title>kaobook</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/books/kaobook/</link>
-      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/books/kaobook/</guid>
-      <description>kaobook Description This template is designed for writing books and graduate-level theses and provides numerous examples and documentation to enable complex requirements. The design features a relatively narrow main text column with an adjacent wide margin to house notes, figures, tables, citations and captions. The narrow text column facilitates faster reading by reducing horizontal eye movement distance and makes reading less fatiguing. Content can be split into the standard section types of parts, chapters, sections, subsections, subsubsections and paragraphs with examples of all of these provided.</description>
-    </item>
-    
-    <item>
-      <title>kaobook</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/kaobook/</link>
-      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/theses/kaobook/</guid>
-      <description>kaobook Description This template is designed for writing books and graduate-level theses and provides numerous examples and documentation to enable complex requirements. The design features a relatively narrow main text column with an adjacent wide margin to house notes, figures, tables, citations and captions. The narrow text column facilitates faster reading by reducing horizontal eye movement distance and makes reading less fatiguing. Content can be split into the standard section types of parts, chapters, sections, subsections, subsubsections and paragraphs with examples of all of these provided.</description>
-    </item>
-    
-    <item>
-      <title>KOMA-Script Presentation</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/presentations/koma-script-presentation/</link>
-      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/presentations/koma-script-presentation/</guid>
-      <description>KOMA-Script Presentation Description: This presentation template is unique in that it uses the standard KOMA-Script scrartcl class to create a beautiful presentation. The use of a standard class means that this template allows direct copy/pasting from other LaTeX documents and doesn’t require specialized commands like other presentation classes. The design of the slides is focused on readability with large fonts and line spacing. Each slide features a running head and a footer with information about the author as well as progress through the presentation.</description>
     </item>
     
     <item>
@@ -624,15 +579,6 @@
     </item>
     
     <item>
-      <title>Press Release</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/miscellaneous/press-release/</link>
-      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/miscellaneous/press-release/</guid>
-      <description>Press Release Description: A press release is a written statement to the media. Press releases are used to announce news, products, services, events, awards, etc. Writing a descriptive press release is a crucial requirement of PR and communication work. This template makes writing a press release easy by dividing the document into the necessary sections and elements that are required for a clear press release. At the top of the press release is a place for a logo for your company/institution which serves to give the release credibility and recognition.</description>
-    </item>
-    
-    <item>
       <title>Professional Formal Letter</title>
       <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/formal-letters/professional-formal-letter/</link>
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
@@ -665,7 +611,7 @@
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/academic-journals/public-library-of-science-plos/</guid>
-      <description>Public Library of Science (PLOS) Description: The Public Library of Science (PLOS) allows authors to submit their manuscript formatted in LaTeX to any of their journals. For this, they provide a template which contains the structure and reference style they would like for submissions. Journals published by PLOS include: PLOS ONE, PLOS Biology, PLOS Medicine, PLOS Computational Biology, PLOS Genetics, PLOS Pathogens, PLOS Neglected Tropical Diseases and PLOS Currents. The PLOS LaTeX template features an intentionally simple layout to make review easy and PLOS explicitly state that template elements should not be modified or removed.</description>
+      <description>Public Library of Science (PLOS) Note that: This template requires PDFLaTeX. Description: The Public Library of Science (PLOS) allows authors to submit their manuscript formatted in LaTeX to any of their journals. For this, they provide a template which contains the structure and reference style they would like for submissions. Journals published by PLOS include: PLOS ONE, PLOS Biology, PLOS Medicine, PLOS Computational Biology, PLOS Genetics, PLOS Pathogens, PLOS Neglected Tropical Diseases and PLOS Currents.</description>
     </item>
     
     <item>
@@ -732,15 +678,6 @@
     </item>
     
     <item>
-      <title>The Wiley Book Style</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/books/wiley-book-style/</link>
-      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/books/wiley-book-style/</guid>
-      <description>The Wiley Book Style Description: The Wiley Publishing Company provides two templates for authors wishing to use LaTeX to supply their books for typesetting. The difference between the two templates is purely in their dimensions, one is for 6″ x 9″ books while the other is for 7″ x 10″ books. The templates include all features required for book publication: title page, copyright page, dedication, contributors list, table of contents/figures/tables, acronyms, glossary, symbols, parts, chapters, appendices, references and an index.</description>
-    </item>
-    
-    <item>
       <title>Thin Formal Letter</title>
       <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/formal-letters/thin-formal-letter/</link>
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
@@ -755,16 +692,7 @@
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/essays/tufte-essay/</guid>
-      <description>Tufte Essay Description This template uses the Tufte class to create an elegant layout for writing essays or other long-form texts. This class features a somewhat controversial wide margin on the right side of each page which is used for: footnotes, margin notes, figure/table captions, citations and even figures and tables themselves. If you are not prepared to make use of this margin or dislike how it looks, it is not recommended to use this template as the class hard-codes its use.</description>
-    </item>
-    
-    <item>
-      <title>Tufte-Style Book</title>
-      <link>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/books/tufte-style-book/</link>
-      <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
-      
-      <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/books/tufte-style-book/</guid>
-      <description>Tufte-Style Book Description: This book template has been designed to conform to Edward R. Tufte’s design style, used in his books and handouts. The most defining feature of this design is the large margin on every page and extensive use of sidenotes. This layout means that the central column of text is uncluttered since further descriptions and citations are housed in the margin. Tufte’s design style does not end there and numerous other typographic and layout tweaks are present in this template and are described in the documentation template.</description>
+      <description>Tufte Essay This template is designed for PDFLaTeX. Description This template uses the Tufte class to create an elegant layout for writing essays or other long-form texts. This class features a somewhat controversial wide margin on the right side of each page which is used for: footnotes, margin notes, figure/table captions, citations and even figures and tables themselves. If you are not prepared to make use of this margin or dislike how it looks, it is not recommended to use this template as the class hard-codes its use.</description>
     </item>
     
     <item>

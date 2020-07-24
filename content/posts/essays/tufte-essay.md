@@ -8,6 +8,8 @@ tags:
 ```
 Tufte Essay
 
+This template is designed for PDFLaTeX.
+
 Description
 This template uses the Tufte class to create an elegant layout for writing essays or other long-form texts. This class features a somewhat controversial wide margin on the right side of each page which is used for: footnotes, margin notes, figure/table captions, citations and even figures and tables themselves. If you are not prepared to make use of this margin or dislike how it looks, it is not recommended to use this template as the class hard-codes its use.
 The template starts with a clear title and summary then shows how a large amount of text (typical in an essay) looks in the layout. Pages 2 and on show numerous examples of common essay elements including: sectioning, referencing, figures and tables, typography options and a bibliography. Read the text and margin notes carefully as these include examples and instructions for how to implement these various elements in your own essay.

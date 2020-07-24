@@ -35,7 +35,7 @@
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/conference-posters/baposter-landscape-poster/</guid>
-      <description>baposter Landscape Poster Description: This poster template features a large header with space for two logos to either side of the title and neatly divides poster content into separate boxes with clear headings in each one. The landscape layout features four columns which can be merged into larger blocks if required, such as in the Results 1, Conclusion and Future Research sections of the template. Merged blocks allow more space for showing off results while blocks taking up one column are ideal for small paragraphs of text or details about the research.</description>
+      <description>baposter Landscape Poster This template requires legacy PDFLaTeX. Description: This poster template features a large header with space for two logos to either side of the title and neatly divides poster content into separate boxes with clear headings in each one. The landscape layout features four columns which can be merged into larger blocks if required, such as in the Results 1, Conclusion and Future Research sections of the template. Merged blocks allow more space for showing off results while blocks taking up one column are ideal for small paragraphs of text or details about the research.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Thu, 23 Jul 2020 10:53:29 +0000</pubDate>
       
       <guid>https://swiftlatex.github.io/LaTeXBoilerPlate/posts/conference-posters/baposter-portrait-poster/</guid>
-      <description>baposter Portrait Poster Description: This poster template neatly divides content into separate boxes with clear headings in each one. The portrait layout features a small side column for study details and a larger column to show off results obtained from the research. The larger column can be optionally divided into two columns to squeeze more information into the poster. The default colors of the template are in the blue spectrum but can be easily changed within the template.</description>
+      <description>baposter Portrait Poster This templates requires legacy PDFLaTeX. Description: This poster template neatly divides content into separate boxes with clear headings in each one. The portrait layout features a small side column for study details and a larger column to show off results obtained from the research. The larger column can be optionally divided into two columns to squeeze more information into the poster. The default colors of the template are in the blue spectrum but can be easily changed within the template.</description>
     </item>
     
     <item>
