@@ -20,3 +20,8 @@ Copyright Owner:
 The templates provided here were created and are owned by the ACM. They are unmodified (but re-bundled to split types) versions of that found on the ACM LaTeX Style Guide page on the ACM website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/vfglw_acmsmall.zip&import_name=Association%20for%20Computing%20Machinery%20%28ACM%29)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/vfglw_acmsmall.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/vfglw_acmsmall.zip&import_name=Association%20for%20Computing%20Machinery%20%28ACM%29)
+

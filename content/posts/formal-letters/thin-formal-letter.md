@@ -14,3 +14,8 @@ Authorship:
 This template was originally an example created for WikiBooks but was rewritten from scratch for version 2.0 by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rhhgw_formal_letter_1.zip&import_name=Thin%20Formal%20Letter)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rhhgw_formal_letter_1.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rhhgw_formal_letter_1.zip&import_name=Thin%20Formal%20Letter)
+

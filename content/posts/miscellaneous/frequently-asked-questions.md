@@ -14,3 +14,8 @@ Original Author:
 This template was created by Adam Glesser (website) but has been extensively modified for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/knvac_faq.zip&import_name=Frequently%20Asked%20Questions)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/knvac_faq.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/knvac_faq.zip&import_name=Frequently%20Asked%20Questions)
+

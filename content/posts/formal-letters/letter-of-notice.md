@@ -14,3 +14,8 @@ Original Author:
 This template was originally created by Rashadul Islam but has been extensively modified for this website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uewkr_formal_letter_3.zip&import_name=Letter%20of%20Notice)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uewkr_formal_letter_3.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uewkr_formal_letter_3.zip&import_name=Letter%20of%20Notice)
+

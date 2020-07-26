@@ -18,3 +18,8 @@ Copyright Owner:
 The achemso class and demo template provided here were created and are owned by ACS Publications – licensed under The LaTeX Project Public Li­cense 1.3. They are an unmodified version of that found on the CTAN page for the achemso class (version 3.8a). More information on submitting to ACS Publications journals using this template can be found on their Preparing and Submitting Manuscripts Using TeX/LaTeX page.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wppza_achemso-demo.zip&import_name=ACS%20Publications)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wppza_achemso-demo.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wppza_achemso-demo.zip&import_name=ACS%20Publications)
+

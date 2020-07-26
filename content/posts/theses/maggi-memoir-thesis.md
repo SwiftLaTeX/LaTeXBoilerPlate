@@ -22,3 +22,8 @@ Original Author:
 This thesis was originally created by Federico Maggi but has been extensively modified for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/izjxc_thesis_3.zip&import_name=Maggi%20Memoir%20Thesis)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/izjxc_thesis_3.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/izjxc_thesis_3.zip&import_name=Maggi%20Memoir%20Thesis)
+

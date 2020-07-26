@@ -16,3 +16,8 @@ Original Authors:
 This template was originally created by Mathias Legrand with inspiration from the material found here and here. It has been extensively modified for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/veykp_book_2.zip&import_name=The%20Legrand%20Orange%20Book)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/veykp_book_2.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/veykp_book_2.zip&import_name=The%20Legrand%20Orange%20Book)
+

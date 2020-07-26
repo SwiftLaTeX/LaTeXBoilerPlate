@@ -14,3 +14,8 @@ Original Author:
 This template was created by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fenea_poems.zip&import_name=Poems)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fenea_poems.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fenea_poems.zip&import_name=Poems)
+

@@ -14,3 +14,8 @@ Original Author:
 The chemical equations in this template come from the mhchem bundle documentation by Martin Hensel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/sclgj_chemical_equations.zip&import_name=Chemical%20Equations)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/sclgj_chemical_equations.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/sclgj_chemical_equations.zip&import_name=Chemical%20Equations)
+

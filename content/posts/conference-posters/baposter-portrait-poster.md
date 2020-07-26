@@ -16,3 +16,8 @@ Original Author:
 The baposter class was originally created by Brian Amberg but this template using this class has been extensively modified for this website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/dfvku_conference_poster_3.zip&import_name=baposter%20Portrait%20Poster)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/dfvku_conference_poster_3.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/dfvku_conference_poster_3.zip&import_name=baposter%20Portrait%20Poster)
+

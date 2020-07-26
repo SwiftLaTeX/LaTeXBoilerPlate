@@ -16,3 +16,8 @@ License:
 The MIT License
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/yidcb_cv_16.zip&import_name=Twenty%20Seconds%20Resume/CV)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/yidcb_cv_16.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/yidcb_cv_16.zip&import_name=Twenty%20Seconds%20Resume/CV)
+

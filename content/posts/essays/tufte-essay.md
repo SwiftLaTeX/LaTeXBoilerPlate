@@ -19,3 +19,8 @@ License
 Apache Li­cense, ver­sion 2.0
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/xtdfj_essay_1.zip&import_name=Tufte%20Essay)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/xtdfj_essay_1.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/xtdfj_essay_1.zip&import_name=Tufte%20Essay)
+

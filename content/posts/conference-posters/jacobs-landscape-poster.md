@@ -14,3 +14,8 @@ Original Author:
 This template was originally created by the Computational Physics and Biophysics Group, Jacobs University and was then modified by Nathaniel Johnston. Finally, it has been extensively modified for this website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/jxfsr_conference_poster_1.zip&import_name=Jacobs%20Landscape%20Poster)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/jxfsr_conference_poster_1.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/jxfsr_conference_poster_1.zip&import_name=Jacobs%20Landscape%20Poster)
+

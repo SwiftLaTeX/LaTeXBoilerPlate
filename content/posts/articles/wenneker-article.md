@@ -14,3 +14,8 @@ Original Author:
 This template was originally created by Frits Wenneker but has been extensively modified for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bmjre_article_1.zip&import_name=Wenneker%20Article)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bmjre_article_1.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bmjre_article_1.zip&import_name=Wenneker%20Article)
+

@@ -15,3 +15,8 @@ Copyright Owner:
 The template files provided here are owned by PNAS. They are unmodified from those found on the Submitting LaTeX Files section of the PNAS website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bzvgi_pnas_template.zip&import_name=PNAS%20Journal)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bzvgi_pnas_template.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bzvgi_pnas_template.zip&import_name=PNAS%20Journal)
+

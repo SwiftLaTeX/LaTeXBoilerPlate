@@ -14,3 +14,8 @@ Original Author:
 This template was created by Vel and is a modification of a template by Christopher Eliot and Anthony Dardis.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/nskzo_article_notes.zip&import_name=Article%20Notes)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/nskzo_article_notes.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/nskzo_article_notes.zip&import_name=Article%20Notes)
+

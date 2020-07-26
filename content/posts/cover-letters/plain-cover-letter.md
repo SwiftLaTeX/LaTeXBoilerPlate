@@ -14,3 +14,8 @@ Original Author:
 This cover letter was originally created by the Rensselaer Polytechnic Institute but has been extensively modified for this website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rggar_cover_letter_1.zip&import_name=Plain%20Cover%20Letter)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rggar_cover_letter_1.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rggar_cover_letter_1.zip&import_name=Plain%20Cover%20Letter)
+

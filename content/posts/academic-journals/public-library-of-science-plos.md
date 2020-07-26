@@ -18,3 +18,8 @@ Copyright Owner:
 The template provided here was created and is owned by PLOS. LaTeX Templates cannot change the template in any way due to copyright restrictions and files provided here are unmodified from their original source at PLOS.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uxava_plos-latex-template.zip&import_name=Public%20Library%20of%20Science%20%28PLOS%29)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uxava_plos-latex-template.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uxava_plos-latex-template.zip&import_name=Public%20Library%20of%20Science%20%28PLOS%29)
+

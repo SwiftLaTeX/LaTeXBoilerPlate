@@ -16,3 +16,8 @@ Original Author:
 This template was originally created by Erick Tatro adapted from J. Hrabe but has been extensively modified for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/qudfz_NIHGrant.zip&import_name=NIH%20Grant%20Proposal)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/qudfz_NIHGrant.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/qudfz_NIHGrant.zip&import_name=NIH%20Grant%20Proposal)
+

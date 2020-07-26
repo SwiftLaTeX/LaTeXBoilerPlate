@@ -15,3 +15,8 @@ Author
 This template was created for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pkzdg_cleese_assignment_students.zip&import_name=Cleese%20Assignment)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pkzdg_cleese_assignment_students.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pkzdg_cleese_assignment_students.zip&import_name=Cleese%20Assignment)
+

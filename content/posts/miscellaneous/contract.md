@@ -15,3 +15,8 @@ Original Author:
 This template was created by Brandon Fryslie but has been extensively modified for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/kneda_contract.zip&import_name=Contract)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/kneda_contract.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/kneda_contract.zip&import_name=Contract)
+

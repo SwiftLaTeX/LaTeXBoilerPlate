@@ -15,3 +15,8 @@ Original Author:
 This invoice template was originally created by Trey Hunner but has been extensively modified for this website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tgclg_invoice.zip&import_name=Invoice)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tgclg_invoice.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tgclg_invoice.zip&import_name=Invoice)
+

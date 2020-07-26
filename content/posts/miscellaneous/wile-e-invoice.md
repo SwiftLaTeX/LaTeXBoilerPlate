@@ -14,3 +14,8 @@ Authors
 This template was created by Peter Morrison-Whittle and Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/dcxyv_wile-e-invoice.zip&import_name=Wile%20E.%20Invoice)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/dcxyv_wile-e-invoice.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/dcxyv_wile-e-invoice.zip&import_name=Wile%20E.%20Invoice)
+

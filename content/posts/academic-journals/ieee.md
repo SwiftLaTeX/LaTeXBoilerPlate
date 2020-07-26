@@ -25,3 +25,8 @@ Copyright Owner:
 The IEEEtran and IEEEphot classes and demo templates provided here were created and are owned by the IEEE – licensed under The LaTeX Project Public Li­cense 1.3. They are unmodified versions of that found on the IEEE page “Article Templates and Instructions”.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/cpaex_bare_adv.zip&import_name=Institute%20of%20Electrical%20and%20Electronics%20Engineers%20%28IEEE%29)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/cpaex_bare_adv.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/cpaex_bare_adv.zip&import_name=Institute%20of%20Electrical%20and%20Electronics%20Engineers%20%28IEEE%29)
+

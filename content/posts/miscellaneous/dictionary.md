@@ -14,3 +14,8 @@ Original Author:
 This template was created by Vel, inspired by a template by Marc Lavaud.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/eounj_dictionary.zip&import_name=Dictionary)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/eounj_dictionary.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/eounj_dictionary.zip&import_name=Dictionary)
+

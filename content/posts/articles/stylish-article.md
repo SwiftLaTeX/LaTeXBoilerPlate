@@ -14,3 +14,8 @@ Original Author:
 This template was originally created by Mathias Legrand but has been extensively modified for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wkint_article_3.zip&import_name=Stylish%20Article)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wkint_article_3.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wkint_article_3.zip&import_name=Stylish%20Article)
+

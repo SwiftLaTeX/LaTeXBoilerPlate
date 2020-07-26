@@ -20,3 +20,8 @@ License:
 This template is licensed under the GNU General Public License (v2).
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fwena_thesis_2.zip&import_name=Classicthesis%20Typographic%20Thesis)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fwena_thesis_2.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fwena_thesis_2.zip&import_name=Classicthesis%20Typographic%20Thesis)
+

@@ -15,3 +15,8 @@ Original Author:
 The calendar style used to make this calendar was made by Evan Sultanik but the template file was made by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zmzgm_calendar_2.zip&import_name=Weekly%20Timetable)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zmzgm_calendar_2.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zmzgm_calendar_2.zip&import_name=Weekly%20Timetable)
+

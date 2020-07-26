@@ -14,3 +14,8 @@ Authors
 This template was originally created by Alessandro Plasmati. It has been entirely rewritten for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pzzcn_cv_3.zip&import_name=Freeman%20Curriculum%20Vitae)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pzzcn_cv_3.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/pzzcn_cv_3.zip&import_name=Freeman%20Curriculum%20Vitae)
+

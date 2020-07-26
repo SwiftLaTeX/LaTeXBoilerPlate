@@ -14,3 +14,8 @@ Original Author:
 This template was created by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bjcqd_custom_class.zip&import_name=Custom%20Class)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bjcqd_custom_class.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/bjcqd_custom_class.zip&import_name=Custom%20Class)
+

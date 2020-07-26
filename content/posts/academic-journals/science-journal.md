@@ -15,3 +15,8 @@ Copyright Owner:
 The template provided here was created and is owned by Science. It is an unmodified version of that found on the Using LaTeX page on the Science website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fbeod_scifile.zip&import_name=Science%20Journal)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fbeod_scifile.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/fbeod_scifile.zip&import_name=Science%20Journal)
+

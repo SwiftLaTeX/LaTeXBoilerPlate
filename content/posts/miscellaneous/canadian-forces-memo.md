@@ -20,3 +20,8 @@ Original Author:
 This template was created by K. Thomas with extensive modifications by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/gwzlz_CF_memo.zip&import_name=Canadian%20Forces%20Memo)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/gwzlz_CF_memo.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/gwzlz_CF_memo.zip&import_name=Canadian%20Forces%20Memo)
+

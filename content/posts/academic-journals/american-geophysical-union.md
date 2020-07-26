@@ -17,3 +17,8 @@ Copyright Owner
 The AGU template provided here was created and is owned by AGU. It is an unmodified version of that found on the LaTeX Guidelines section of the AGU website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/omjtn_agu_template.zip&import_name=American%20Geophysical%20Union)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/omjtn_agu_template.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/omjtn_agu_template.zip&import_name=American%20Geophysical%20Union)
+

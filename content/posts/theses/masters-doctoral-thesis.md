@@ -16,3 +16,8 @@ Original Author
 This second major version of this template was made by Vel. The thesis style was originally created by Steve R. Gunn and modified into a template by Sunil Patel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uskxy_thesis_1.zip&import_name=Masters/Doctoral%20Thesis)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uskxy_thesis_1.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/uskxy_thesis_1.zip&import_name=Masters/Doctoral%20Thesis)
+

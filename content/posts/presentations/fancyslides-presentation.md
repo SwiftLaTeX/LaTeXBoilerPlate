@@ -14,3 +14,8 @@ Original Authors:
 The Fancyslides class was created by Pawel Lupkowski and is available here. This template uses this class but has been extensively modified for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ldvrt_presentation_3.zip&import_name=Fancyslides%20Presentation)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ldvrt_presentation_3.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/ldvrt_presentation_3.zip&import_name=Fancyslides%20Presentation)
+

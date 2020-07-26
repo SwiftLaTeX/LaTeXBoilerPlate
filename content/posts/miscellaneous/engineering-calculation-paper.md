@@ -14,3 +14,8 @@ Original Author:
 This template was originally created by Dmitry Volynkin but has been extensively modified for this website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zyjpo_EngCalcPaper.zip&import_name=Engineering%20Calculation%20Paper)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zyjpo_EngCalcPaper.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/zyjpo_EngCalcPaper.zip&import_name=Engineering%20Calculation%20Paper)
+

@@ -15,3 +15,8 @@ Original Author:
 This template was originally created by Claud D. Park (GitHub repository) but has been modified for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tajec_cv_14.zip&import_name=Awesome%20Resume/CV%20and%20Cover%20Letter)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tajec_cv_14.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/tajec_cv_14.zip&import_name=Awesome%20Resume/CV%20and%20Cover%20Letter)
+

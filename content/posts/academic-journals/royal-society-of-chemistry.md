@@ -16,3 +16,8 @@ Copyright Owner
 The two templates provided here were created and are owned by RSC Publishing. The files provided here are unmodified from their original source at RSC Publishing.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/alsnx_rsc_article_template.zip&import_name=Royal%20Society%20of%20Chemistry)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/alsnx_rsc_article_template.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/alsnx_rsc_article_template.zip&import_name=Royal%20Society%20of%20Chemistry)
+

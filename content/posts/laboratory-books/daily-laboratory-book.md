@@ -16,3 +16,8 @@ Original Author:
 This laboratory book template was originally created by Frank Kuster but has been extensively modified for this website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rbuly_lab_book_1.zip&import_name=Daily%20Laboratory%20Book)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rbuly_lab_book_1.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/rbuly_lab_book_1.zip&import_name=Daily%20Laboratory%20Book)
+

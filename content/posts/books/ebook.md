@@ -14,3 +14,8 @@ Original Author:
 This template was created by Luis Cobo with extensive modifications by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wgsqd_ebook.zip&import_name=eBook)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wgsqd_ebook.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/wgsqd_ebook.zip&import_name=eBook)
+

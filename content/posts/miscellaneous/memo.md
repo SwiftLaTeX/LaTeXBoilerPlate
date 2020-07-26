@@ -14,3 +14,8 @@ Original Author:
 The texMemo class used in this template was created by Rob Oakes.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/kaeod_memo.zip&import_name=Memo)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/kaeod_memo.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/kaeod_memo.zip&import_name=Memo)
+

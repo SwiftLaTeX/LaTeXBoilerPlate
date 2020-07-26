@@ -17,3 +17,8 @@ Copyright Owner:
 The template provided here was created and is owned by the ASME. It is an unmodified version of that found on the Author Templates page linked through from the ASME website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/twslq_journal-1.0b.zip&import_name=American%20Society%20of%20Mechanical%20Engineers%20%28ASME%29)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/twslq_journal-1.0b.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/twslq_journal-1.0b.zip&import_name=American%20Society%20of%20Mechanical%20Engineers%20%28ASME%29)
+

@@ -14,3 +14,8 @@ Original Author:
 This template was originally created by Cies Breijs (GitHub repository) but has been modified for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/yatvy_cv_11.zip&import_name=Cies%20Resume/CV)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/yatvy_cv_11.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/yatvy_cv_11.zip&import_name=Cies%20Resume/CV)
+

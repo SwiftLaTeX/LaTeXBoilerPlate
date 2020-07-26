@@ -14,3 +14,8 @@ Original Author:
 The a0poster class was created by Gerlinde Kettl and Matthias Weiser. This template uses this class but has been created for this website by Vel.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/sxoct_conference_poster_6.zip&import_name=a0poster%20Portrait%20Poster)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/sxoct_conference_poster_6.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/sxoct_conference_poster_6.zip&import_name=a0poster%20Portrait%20Poster)
+

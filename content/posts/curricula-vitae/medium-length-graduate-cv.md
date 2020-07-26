@@ -15,3 +15,8 @@ Original Author:
 This curriculum vitae was originally created by the Rensselaer Polytechnic Institute but has been extensively modified for this website.
 ```
 [Open this template in SwiftLaTeX](https://www.swiftlatex.com/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/lxhgp_cv_2.zip&import_name=Medium%20Length%20Graduate%20CV)
+
+[Download this template](https://swiftlatex.github.io/LaTeXBoilerPlate/zips/lxhgp_cv_2.zip)
+
+[Open this template in self-hosting SwiftLaTeX](http://localhost:3011/project.html?import=https://swiftlatex.github.io/LaTeXBoilerPlate/zips/lxhgp_cv_2.zip&import_name=Medium%20Length%20Graduate%20CV)
+
